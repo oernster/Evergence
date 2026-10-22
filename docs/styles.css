@@ -1,0 +1,191 @@
+/* Evergence project site. Hand-built, no build step. A trimmed port of the
+   ernster.dev hub stylesheet, same tokens, so the page reads as one of the
+   family when reached from the hub. */
+
+:root {
+  color-scheme: dark;
+  --bg: #0b0f14;
+  --panel: #11161c;
+  --panel-2: #0e131a;
+  --border: #1f2933;
+  --text: #e6edf3;
+  --muted: #9da7b3;
+  --accent: #2f81f7;
+  --accent-fill: #1f6feb;
+  --accent-wash: rgba(47, 129, 247, 0.10);
+  --on-accent: #ffffff;
+  --radius: 16px;
+  --maxw: 1100px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a { color: inherit; }
+
+/* Sticky top navigation. */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(11, 15, 20, 0.82);
+  backdrop-filter: saturate(140%) blur(8px);
+  border-bottom: 1px solid var(--border);
+}
+.topbar .inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  text-decoration: none;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+.brand img { width: 22px; height: 22px; object-fit: contain; flex: 0 0 auto; }
+.nav { display: flex; gap: 6px 4px; flex-wrap: wrap; margin-left: auto; }
+.nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-size: 14px;
+  padding: 6px 8px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  transition: color .15s ease, border-color .15s ease, background .15s ease;
+  white-space: nowrap;
+}
+.nav a:hover, .nav a:focus-visible { color: var(--text); border-color: var(--border); outline: none; }
+.nav .sep { width: 1px; align-self: stretch; margin: 2px 4px; background: var(--border); }
+@media (max-width: 700px) { .nav .sep { display: none; } }
+
+/* Page shell. */
+main { max-width: var(--maxw); margin: 0 auto; padding: 36px 24px 64px; }
+
+/* Hero: the mascot beside the title block. */
+.hero { display: flex; align-items: center; gap: 28px; }
+.hero img { width: 160px; height: 160px; object-fit: contain; flex: 0 0 auto; }
+@media (max-width: 640px) { .hero { flex-direction: column; align-items: flex-start; } .hero img { width: 120px; height: 120px; } }
+.hero h1 { font-size: 34px; font-weight: 700; letter-spacing: -0.01em; line-height: 1.15; }
+.hero .sub { color: var(--muted); margin-top: 6px; font-size: 17px; }
+.hero .pull { color: var(--accent); font-style: italic; margin-top: 12px; font-size: 17px; font-weight: 650; }
+.hero .lede { color: var(--muted); margin-top: 10px; font-size: 15.5px; max-width: 72ch; }
+.cta { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 10px 12px; }
+
+/* The one button shape for "this opens another page". */
+.go {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--accent-fill);
+  color: var(--on-accent);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.2;
+  padding: 10px 18px;
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background .15s ease;
+}
+.go:hover, .go:focus-visible { background: var(--accent); outline: none; }
+.go.ghost { background: transparent; color: var(--text); border: 1px solid var(--border); }
+.go.ghost:hover, .go.ghost:focus-visible { border-color: var(--accent); background: var(--accent-wash); }
+
+/* The standing status statement, drawn as a quiet notice rather than a card:
+   it is the sentence the whole site rests on. */
+.status { margin-top: 28px; padding: 14px 18px; border-left: 3px solid var(--accent); background: var(--panel-2); border-radius: 0 10px 10px 0; color: var(--muted); font-size: 15px; max-width: 80ch; }
+.status strong { color: var(--text); }
+
+h2.section { margin-top: 40px; margin-bottom: 2px; font-size: 21px; font-weight: 600; letter-spacing: -0.01em; }
+.section-note { color: var(--muted); font-size: 14.5px; margin-top: 4px; max-width: 80ch; }
+.section-note a { color: var(--text); }
+
+/* Card grid: the documents in reading order. */
+.grid {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+  align-items: stretch;
+}
+@media (max-width: 620px) { .grid { grid-template-columns: 1fr; } }
+a.card {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  transition: border-color .15s ease;
+}
+a.card:hover, a.card:focus-visible { border-color: var(--accent); outline: none; }
+/* Reading-order number in place of an icon tile. */
+.num {
+  width: 38px; height: 38px; flex: 0 0 auto;
+  border-radius: 9px;
+  display: inline-flex; align-items: center; justify-content: center;
+  background: linear-gradient(160deg, #1b2530, #131a22);
+  border: 1px solid var(--border);
+  color: #a9c1dc;
+  font-weight: 700;
+  font-size: 15px;
+}
+.card .body { display: flex; flex-direction: column; min-width: 0; }
+.card .t { font-weight: 600; font-size: 17px; display: flex; align-items: center; gap: 8px; }
+.card .t .ext { color: var(--muted); font-size: 13px; font-weight: 500; }
+.card .d { color: var(--muted); font-size: 15px; margin-top: 5px; }
+
+/* Plain list of commitments or questions. */
+.list { margin-top: 14px; padding-left: 20px; display: grid; gap: 8px; font-size: 15px; max-width: 90ch; }
+.list li::marker { color: var(--accent); }
+.list strong { color: var(--text); }
+
+/* Evidence band: four hairline-separated parts, text forward. */
+.band { margin-top: 22px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px 14px; }
+@media (max-width: 860px) { .band { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .band { grid-template-columns: 1fr; } }
+.band .part { border-top: 1px solid var(--border); padding-top: 12px; }
+.band .label { font-size: 12.5px; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+.band .figure { font-size: 18px; font-weight: 700; letter-spacing: -0.01em; line-height: 1.25; margin-top: 4px; text-wrap: balance; }
+.band .cap { color: var(--muted); font-size: 13.5px; margin-top: 6px; }
+.band-close { color: var(--muted); font-size: 14.5px; margin-top: 22px; max-width: 72ch; font-style: italic; }
+
+/* Workstreams: panels in the card treatment, nothing opens a page. */
+.panels { margin-top: 16px; display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+@media (max-width: 720px) { .panels { grid-template-columns: 1fr; } }
+.panel { background: var(--panel); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 20px; }
+.panel.wide { grid-column: 1 / -1; }
+.panel h3 { font-size: 16px; font-weight: 700; letter-spacing: -0.01em; }
+.panel h3 span { color: var(--muted); font-weight: 600; margin-right: 8px; }
+.panel p { color: var(--muted); font-size: 14.5px; margin-top: 6px; }
+.panel .out { margin-top: 10px; font-size: 13.5px; }
+.panel .out strong { color: var(--text); }
+
+/* Labels a contribution may use, drawn as pills. */
+.pills { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+.pills span { color: var(--muted); font-size: 13.5px; padding: 5px 12px; border-radius: 999px; border: 1px solid var(--border); }
+
+/* Footer. */
+footer { max-width: var(--maxw); margin: 0 auto; padding: 24px; border-top: 1px solid var(--border); color: var(--muted); font-size: 14px; }
+footer a { color: var(--muted); text-decoration: none; border-bottom: 1px solid transparent; }
+footer a:hover, footer a:focus-visible { color: var(--text); border-bottom-color: var(--border); outline: none; }
+footer .row { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+footer .fine { margin-top: 10px; font-size: 13px; }
