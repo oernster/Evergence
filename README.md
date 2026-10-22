@@ -1,4 +1,4 @@
-# <img src="SAM.png" alt="SAM" width="128" height="128"> Civilisational Continuity and Open-Ended Evolution
+# <img src="Sam.png" alt="Sam" width="128" height="128"> Civilisational Continuity and Open-Ended Evolution
 
 *A provisional philosophical, scientific and mathematical research framework.*
 
@@ -12,14 +12,14 @@ This repository is a **starting point for inquiry, not a declaration of discover
 
 ## Start here
 
-1. [Vision and objectives](VISION.md) — what the framework seeks, and what it does not.
-2. [Ethical foundations](ETHICS.md) — life, love, enjoyment, autonomy and the rejection of destructive 'perfect balance'.
-3. [Architects and governance](ARCHITECTS.md) — the character, competence, limits and accountability of future architects.
-4. [Civilisational memory](MEMORY.md) — preserve historical evidence without imposing historical obedience.
-5. [Mathematical foundations](MATHEMATICS.md) — Euler's identity, balanced ternary, infinite-dimensional models and their limitations.
-6. [Cosmology and survival](COSMOLOGY.md) — heat death, thermodynamic constraints and speculative escape scenarios.
-7. [Research programme](RESEARCH.md) — testable questions, open problems and criteria for progress.
-8. [Glossary](GLOSSARY.md) — shared vocabulary and important distinctions.
+1. [Vision and objectives](VISION.md): what the framework seeks and what it does not.
+2. [Ethical foundations](ETHICS.md): life, love, enjoyment, autonomy and the rejection of destructive 'perfect balance'.
+3. [Architects and governance](ARCHITECTS.md): the character, competence, limits and accountability of future architects.
+4. [Civilisational memory](MEMORY.md): preserve historical evidence without imposing historical obedience.
+5. [Mathematical foundations](MATHEMATICS.md): Euler's identity, balanced ternary, infinite-dimensional models and their limitations.
+6. [Cosmology and survival](COSMOLOGY.md): heat death, thermodynamic constraints and speculative escape scenarios.
+7. [Research programme](RESEARCH.md): testable questions, open problems and criteria for progress.
+8. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
 
 ## Guiding commitments
 
@@ -37,9 +37,9 @@ This repository is a **starting point for inquiry, not a declaration of discover
 
 **Established mathematics:** balanced ternary, Euler's formula, roots of unity, infinite product spaces.
 
-**Established or evidence-supported physics:** thermodynamics, the observed expansion of the universe, and the current standard cosmological model within its tested domain.
+**Established or evidence-supported physics:** thermodynamics, the observed expansion of the universe and the current standard cosmological model within its tested domain.
 
-**Unsettled physics:** the ultimate fate of the universe, the nature of dark energy, and whether new physics could alter long-term cosmological outcomes.
+**Unsettled physics:** the ultimate fate of the universe, the nature of dark energy and whether new physics could alter long-term cosmological outcomes.
 
 **Speculative constructions:** assigning ternary states to arbitrarily many dimensions; interpreting civilisational evolution as new degrees of freedom; cosmological transitions that preserve a civilisation.
 
