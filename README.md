@@ -1,4 +1,4 @@
-# <img src="SAM.png" alt="SAM" width="128" height="128"> Civilisational Continuity and Open-Ended Evolution
+# ![SAM](SAM.png) Civilisational Continuity and Open-Ended Evolution
 
 *A provisional philosophical, scientific and mathematical research framework.*
 
