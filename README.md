@@ -1,4 +1,5 @@
-# <img src="Sam.png" alt="Sam" width="128" height="128"> Civilisational Continuity and Open-Ended Evolution
+# <img width="128" height="128" alt="Sam" src="https://github.com/user-attachments/assets/a366a9d7-c7bc-48e3-aff6-c9d75eca455c" /> 
+# Civilisational Continuity and Open-Ended Evolution
 
 *A provisional philosophical, scientific and mathematical research framework.*
 
