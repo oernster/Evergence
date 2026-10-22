@@ -1,0 +1,45 @@
+# Glossary and Key Distinctions
+
+[← README](README.md) · [Research](RESEARCH.md)
+
+**Architect:** A responsible steward or group helping civilisation develop conditions for survival and evolution; not an unquestionable ruler.
+
+**Balanced ternary:** A base-three integer representation with digits −1, 0 and +1.
+
+**Civilisational continuity:** A meaningful connection between a future entity and its human or other living predecessors; its precise criteria are unresolved.
+
+**Civilisational memory:** Authentic, retrievable historical evidence, including mistakes, preserved across generations and transitions.
+
+**Dimension (mathematical):** An independent coordinate or degree of freedom in a model. Not necessarily a physical spatial dimension.
+
+**Dimension (physical):** A coordinate of physical spacetime or another physically established degree of freedom. Extra spacetime dimensions remain hypothetical.
+
+**Dynamic coexistence:** Diverse beings and systems interacting under viable, revisable conditions, without compulsory numerical equality.
+
+**Entropy:** A thermodynamic quantity associated with the multiplicity of microscopic configurations and constraints on available work.
+
+**Euler's identity:** The mathematical equality \(e^{i\pi}+1=0\).
+
+**Evolution:** Change and development over time; in this project, also the possibility of new capacities. No universal direction or purpose is assumed.
+
+**Flourishing:** A plural, contestable family of goods that may include joy, love, relationships, autonomy, creativity and self-chosen meaning.
+
+**Heat death:** A proposed long-term cosmological condition in which usable free-energy gradients become insufficient to support complex processes.
+
+**Human-descended agency:** Meaningful ability of an entity continuous with humanity to influence its own trajectory, subject to consideration of other conscious beings.
+
+**M-theory:** A theoretical framework associated with eleven-dimensional spacetime; not experimentally established as a description of reality.
+
+**Possibility vs accessibility:** A state can be mathematically describable yet physically impossible or unreachable.
+
+**Preservation vs publication:** Keeping an authentic record is distinct from making every detail freely available without contextual or safety controls.
+
+**Roots of unity:** Complex numbers whose powers equal one; the three cube roots form a natural threefold rotational symmetry.
+
+**Survival objective:** The ambition to maintain life, continuity and capacity for evolution; not a permission to use any means.
+
+**Viability:** The ability to continue within necessary physical and ethical constraints.
+
+---
+
+This glossary is provisional. Contested terms should retain documented alternatives rather than being silently redefined.
