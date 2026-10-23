@@ -8,6 +8,8 @@
 
 **Who Dares to Care Wins.**
 
+It is a deliberate alteration of the older maxim *Who Dares Wins*. The two inserted words are the whole change; they change what the last word can mean: a win is defined by the people living their lives, not by the daring party; an ordinary secure and occasionally joyful life counts in full. That caveat travels with the phrase wherever it is repeated; the phrase without it is the older maxim again.
+
 The phrase proposes that courage gains moral direction through care. To dare is to accept some vulnerability, uncertainty or cost; to care is to take seriously the dignity, welfare, rights and aspirations of those who may be affected. The two qualities must be joined by judgement. Courage without care can turn into recklessness or domination; professed care without the willingness to act can leave preventable harm unchallenged.
 
 The last word, *wins*, requires qualification: sometimes the ethically responsible act fails to produce the desired outcome. A courageous act does not become immoral merely because it does not succeed; nor does a good outcome retroactively excuse coercion or cruelty. See [What counts as winning](WHAT_COUNTS_AS_WINNING.md).

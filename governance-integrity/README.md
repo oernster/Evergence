@@ -27,7 +27,7 @@ This adjunct develops implementable, testable safeguards alongside the existing 
 
 The institution's self-description as benevolent is not evidence that its actions are benevolent. Beneficiaries, critics, outsiders and those bearing unintended costs require avenues to inspect and contest the results.
 
-The project maxim **“Who Dares to Care Wins”** is explained in [the courage to care](COURAGE_TO_CARE.md). It is an ethical aspiration, not a promise that every caring intervention succeeds or an instruction to impose a uniform definition of victory.
+The project maxim **“Who Dares to Care Wins”**, a deliberate alteration of the older *Who Dares Wins*, is explained in [the courage to care](COURAGE_TO_CARE.md). It is an ethical aspiration, not a promise that every caring intervention succeeds or an instruction to impose a uniform definition of victory; the win is defined by the people living their lives, as [What counts as winning](WHAT_COUNTS_AS_WINNING.md) sets out; that caveat travels with the phrase.
 
 A companion adjunct, [Care beyond reciprocity](../care-and-influence/README.md), extends the courage-to-care inquiry to benevolence that is never seen, influence without acquaintance and gratitude that creates no debt.
 
