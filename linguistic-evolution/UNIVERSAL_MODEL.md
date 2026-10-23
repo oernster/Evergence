@@ -75,6 +75,7 @@ Possible observations include contextual comprehension tests, archive records of
 - Institutional pressure explains both language and conduct, with no detectable incremental influence from the wording.
 - A predicted effect disappears under matched controls, preregistration or replication.
 - Ordinary clarification and education outperform any stronger proposed intervention.
+- A feature proposed as harmful turns out to be shared by languages with no comparable history, which is the test a politeness convention such as *bitte* answering *danke* fails (see the [German case study](GERMAN_CASE_STUDY.md)).
 
 These would not invalidate cultural evolution in general; they would constrain or refute the **specific linguistic-risk hypothesis**.
 

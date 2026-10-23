@@ -30,6 +30,7 @@ This is a proposed **additional workstream** subordinate to the evidence and rep
 - Triangulate observational results against matched comparisons, temporal order, alternative causal explanations and independent replication.
 - Evaluate false positives/false negatives, especially where minority languages are underrepresented; document distribution shifts over time.
 - Test institutional language used by **the investigators themselves** under the same scrutiny.
+- Require each investigator to declare, with the study and before its findings, any affective attachment to or against a language under study and to the history of its speakers; record it as a confounder beside the data, since such feeling attaches itself to surface features of a language and makes them look like evidence (see the politeness convention in the [German case study](GERMAN_CASE_STUDY.md)).
 
 ## Observable outputs, not a universal ranking
 

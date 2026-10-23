@@ -35,6 +35,7 @@ The psychological concept of **moral disengagement**, particularly sanitising la
 - 'High German' is a historical/geographical linguistic classification; it does not mean that speakers are a superior class of humanity.
 - The First World War had many causes predating Nazism; the Nazi regime was central to the beginning of the Second World War in Europe. The two cannot be straightforwardly attributed to one language.
 - German was also a language of Jewish cultural life, anti-Nazi resistance, scholarship and postwar remembrance. Its varied use is a necessary counterexample to linguistic determinism.
+- A politeness convention that reads as wrong from outside is not evidence about a language. German answers *danke* with *bitte*, the same word that means 'please', which an English speaker may hear as refusing thanks; Italian does the same with *prego* and French with *je vous en prie* (empirical, verifiable in any dictionary). English is the outlier in keeping a separate formula. An observer's distaste for a surface feature says nothing about the speakers' attitude to gratitude, least of all where the observer also carries feeling about the history of those speakers: the feeling attaches itself to the feature and the feature then looks like evidence for a conclusion the feeling had already reached. That displacement is a confounder in the investigator, to be declared under the research programme's methods, never a finding about the language.
 
 ## An educational exhibit should present
 
