@@ -155,6 +155,7 @@ Three consequences for this project, each with its label.
 - Physical models require dynamics, measurable quantities and empirically distinguishable predictions.
 - If balanced ternary proves unhelpful, the survival objective takes precedence over preserving this formalism.
 - Incompleteness is a result about formal systems. Invoking it for a claim that is not one is an analogy and must be labelled as one.
+- A configuration count is not a resource budget. What a stage can afford to spend on new degrees of freedom is a separate question, sketched in [ECONOMICS.md](ECONOMICS.md).
 
 ## Next
 

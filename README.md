@@ -19,8 +19,9 @@ This repository is a **starting point for inquiry, not a declaration of discover
 4. [Civilisational memory](MEMORY.md): preserve historical evidence without imposing historical obedience.
 5. [Mathematical foundations](MATHEMATICS.md): Euler's identity, balanced ternary, infinite-dimensional models, Gödel's incompleteness theorems and their limitations.
 6. [Cosmology and survival](COSMOLOGY.md): heat death, thermodynamic constraints and speculative escape scenarios.
-7. [Research programme](RESEARCH.md): testable questions, open problems and criteria for progress.
-8. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
+7. [Economics, resources and incentives](ECONOMICS.md): scarcity, discounting as a normative choice, public goods, incentives and the cost of memory.
+8. [Research programme](RESEARCH.md): testable questions, open problems and criteria for progress.
+9. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
 
 ## Guiding commitments
 
@@ -42,13 +43,17 @@ This repository is a **starting point for inquiry, not a declaration of discover
 
 **Unsettled physics:** the ultimate fate of the universe, the nature of dark energy and whether new physics could alter long-term cosmological outcomes.
 
+**Established economics:** scarcity and opportunity cost, present-value arithmetic, the under-provision of public goods, the thermodynamic cost of information.
+
+**Contested economics:** the rate of time preference across generations, how tightly thermodynamic limits bind economic activity, whether growth is needed at all.
+
 **Speculative constructions:** assigning ternary states to arbitrarily many dimensions; interpreting civilisational evolution as new degrees of freedom; reading evolutionary stages as extensions of a formal system; cosmological transitions that preserve a civilisation.
 
 No mathematical elegance, by itself, establishes physical reality.
 
 ## Reading order and contribution
 
-Begin with [VISION.md](VISION.md), then [ETHICS.md](ETHICS.md) and [ARCHITECTS.md](ARCHITECTS.md). The mathematical and cosmological material provides a research language, **not proof** of the vision.
+Begin with [VISION.md](VISION.md), then [ETHICS.md](ETHICS.md) and [ARCHITECTS.md](ARCHITECTS.md). The mathematical, cosmological and economic material provides a research language and a set of constraints, **not proof** of the vision.
 
 The project invites scientific objections, alternative ethical frameworks, counterexamples and improvements. In particular, proposals must be examined for coercion, concentration of power, exclusion, irreversible harm and misuse.
 

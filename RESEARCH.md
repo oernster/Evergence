@@ -1,6 +1,6 @@
 # Research Programme and Open Questions
 
-[← README](README.md) · [Cosmology](COSMOLOGY.md) · [Glossary →](GLOSSARY.md)
+[← README](README.md) · [Economics](ECONOMICS.md) · [Glossary →](GLOSSARY.md)
 
 ## Research ethos
 
@@ -58,6 +58,17 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 
 **Output:** evidence-ranked hypotheses and falsifiable predictions wherever possible.
 
+## Workstream 6: Economics of continuity
+
+- Argue the rate of time preference across civilisational stages as a normative commitment; record the alternatives and what each implies for the stage after next.
+- Replace the toy budget in [ECONOMICS.md](ECONOMICS.md) with a model carrying stated units, floors for survival and memory and an explicit link from evolution spending to later supply.
+- Test Ostrom's design principles as candidate safeguards for architect institutions; identify which fail at civilisational scale and why.
+- Audit every measure the framework proposes for its Goodhart failure: what is gamed when the measure becomes a target.
+- Cost the three duties of memory (preservation, access, interpretation) against the thermodynamic floor on information.
+- Examine whether any growth assumption has entered the framework through economic vocabulary.
+
+**Output:** a declared and argued discount commitment, a costed budget model, a Goodhart audit of every proposed measure.
+
 ## Initial milestones
 
 | Milestone | Evidence of completion |
@@ -68,6 +79,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 | M4: Historical archive prototype | Integrity, retrieval and review demonstrated |
 | M5: Cosmological review | Competing models, evidence and uncertainties documented |
 | M6: Public revision | Critiques incorporated with versioned rationale |
+| M7: Costed continuity | Discount commitment argued; budget model with units; Goodhart audit published |
 
 ## Red-team questions
 
@@ -79,13 +91,16 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 - Does the model produce predictions or only metaphors?
 - Can a future generation reject inherited values without losing access to inherited evidence?
 - Is incompleteness being invoked as a licence for vagueness, mysticism or unfalsifiable claims?
+- Has a discount rate been applied anywhere without being argued?
+- Is economic vocabulary carrying a growth imperative back in?
 
 ## Roadmap
 
 Each release adds one evaluation and integrates it through every document it touches. The record of what changed is [CHANGELOG.md](CHANGELOG.md); the current version is in `VERSION`.
 
-- **0.2.0, this release:** Gödel's incompleteness theorems, stated in [MATHEMATICS.md](MATHEMATICS.md) section 9 and carried as a labelled caution into the vision, ethics, architects, memory and cosmology documents.
-- **0.3.0, planned:** modern economic theory as a further constraint set. Candidate scope, to be defined before any text is written: resource allocation under thermodynamic limits (Georgescu-Roegen's entropy economics as a starting point); incentive design and the distortion incentives impose on long-horizon decisions; intergenerational public goods and discounting; the economics of preserving information. Nothing in 0.2.0 depends on it.
+- **0.2.0:** Gödel's incompleteness theorems, stated in [MATHEMATICS.md](MATHEMATICS.md) section 9 and carried as a labelled caution into the vision, ethics, architects, memory and cosmology documents.
+- **0.3.0, this release:** modern economic theory as a constraint set, in [ECONOMICS.md](ECONOMICS.md): scarcity, discounting as a normative decision, entropy economics, intergenerational public goods and the commons record, incentives and Goodhart, the thermodynamic cost of memory, a toy budget. Carried into the vision, ethics, architects, memory, mathematics and cosmology documents, with Workstream 6 and milestone M7 here.
+- **Next evaluation:** not yet chosen. Candidates are recorded as objections arrive.
 
 ## Contribution conventions
 

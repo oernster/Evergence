@@ -16,6 +16,8 @@ A civilisation pursuing indefinite survival may face difficult trade-offs. Its s
 
 Other conscious entities must have meaningful consideration and (where possible) participation in decisions affecting them.
 
+How much a present stage may spend on the next is itself a moral choice. [ECONOMICS.md](ECONOMICS.md) explains why it must not be left to a discount rate assumed by default: the arithmetic of discounting values distant generations at nothing unless the rate is chosen with them in view; the agents with the largest stake in that choice are not yet present to argue it.
+
 ## Reject 'perfect balance' as an overriding goal
 
 Numerical symmetry is not moral justice. Equal population counts, equal resource shares or a mathematically optimal aggregate can be disastrous if imposed without regard for individuals, differences in need or consent.
@@ -23,6 +25,8 @@ Numerical symmetry is not moral justice. Equal population counts, equal resource
 The fictional elimination of half of life in *Avengers: Infinity War* illustrates the danger of treating a crude equilibrium target as a moral licence for mass killing. Historical genocides likewise demand serious study and remembrance, not numerical rationalisation.
 
 **Balance, where useful, should mean dynamic coexistence and viable relationships, not compulsory equality or elimination.**
+
+Economics names the degenerate case: a measure that becomes a target ceases to measure (Goodhart), so any numerical balance adopted as an objective will be gamed by the structure around it ([ECONOMICS.md](ECONOMICS.md)). Keeping measures diagnostic is an ethical safeguard as well as a technical one.
 
 ## Death as possibility, not universal compulsion
 

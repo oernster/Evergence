@@ -25,6 +25,8 @@ Architects must be answerable to affected populations. Governance should incorpo
 
 Useful safeguards include term limits where appropriate, transparent mandates, independent review, appeals, distributed custodianship, conflict-of-interest rules and mechanisms for replacing failing stewards.
 
+Architects are agents with incentives. A mandate that points one way while the incentive field points another will be followed in the field's direction, whatever the charter says (hypothesis; [ECONOMICS.md](ECONOMICS.md)). Safeguards therefore have to be read against incentives, not only against mandates; Ostrom's design principles for governing a commons (rules made by those they bind, monitoring by the governed, graduated sanctions, cheap conflict resolution, nested tiers) are the first candidates to test at civilisational scale.
+
 Independent review has a further reason, offered as speculation by analogy with Gödel's second theorem ([MATHEMATICS.md](MATHEMATICS.md) section 9): a sufficiently rich formal system cannot certify its own consistency from inside. An institution that audits only itself stands in the same position. External review is on this reading a structural need rather than a courtesy.
 
 ## Guidance rather than enforced obedience

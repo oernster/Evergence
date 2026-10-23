@@ -14,6 +14,8 @@ Technological progress, economic resources, dimensional expansion, knowledge, en
 
 Accumulation for accumulation's sake, whether of money, territory, computational power or dimensions, is not the objective.
 
+Economic theory enters the framework on exactly this footing, as a set of constraints on how the instruments may be used, never as a reason to accumulate ([ECONOMICS.md](ECONOMICS.md)). One of those constraints is the quietest threat to the ambition: a positive discount rate applied across civilisational stages values the stage after next at nothing. The rate is therefore a normative commitment to be argued, not a parameter to be assumed.
+
 ## Evolution and direction
 
 'Forward' evolution is a provisional term. A fixed, universal definition of progress may be inappropriate. Different beings and future generations may value different forms of development. An evolving civilisation must be able to revise its own concepts of flourishing without erasing historical knowledge.

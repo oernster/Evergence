@@ -1,6 +1,6 @@
 # Cosmology, Heat Death and Long-Term Survival
 
-[← README](README.md) · [Mathematics](MATHEMATICS.md) · [Research →](RESEARCH.md)
+[← README](README.md) · [Mathematics](MATHEMATICS.md) · [Economics →](ECONOMICS.md)
 
 ## The central cosmological question
 
@@ -73,7 +73,7 @@ Any physical survival strategy must address available work, matter, stable organ
 P_{\mathrm{available}}(t)\ge P_{\mathrm{required}}(t),
 \]
 
-but a complete model needs more than a single power inequality.
+but a complete model needs more than a single power inequality. The allocation side of the same constraint, a budget shared among survival, memory and evolution, is sketched in [ECONOMICS.md](ECONOMICS.md).
 
 An infinite sum of possible resources may be finite; for example:
 
@@ -93,4 +93,4 @@ Any proposed escape route should specify its assumptions, energy budget, causal 
 
 ## Next
 
-See [RESEARCH.md](RESEARCH.md) for the investigation plan.
+See [ECONOMICS.md](ECONOMICS.md) for the allocation constraints, then [RESEARCH.md](RESEARCH.md) for the investigation plan.
