@@ -22,6 +22,10 @@ This repository is a **starting point for inquiry, not a declaration of discover
 7. [Economics, resources and incentives](ECONOMICS.md): scarcity, discounting as a normative choice, public goods, incentives and the cost of memory.
 8. [Research programme](RESEARCH.md): testable questions, open problems and criteria for progress.
 9. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
+10. [Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md): universal language-evolution research, preservation and anti-authoritarian safeguards.
+11. [Civilisational capability distribution without eugenics](civilisational-resilience/README.md): a rights-based research adjunct on resilient access to expertise without reproductive control.
+
+Items 10 and 11 are provisional research extensions with an entry point of their own at [START_HERE.md](START_HERE.md); the nine documents above remain the framework.
 
 ## Guiding commitments
 
