@@ -6,16 +6,17 @@
 
 Treat the survival ambition seriously while maintaining strict distinctions among values, definitions, mathematics, simulations, hypotheses and experimentally supported claims. Seek criticism early. No architect or theory is exempt from revision.
 
-## Workstream 1 — Define the objective
+## Workstream 1: Define the objective
 
-- What qualifies as continued humanity: biological lineage, cultural continuity, consciousness, institutions, or combinations?
+- What qualifies as continued humanity: biological lineage, cultural continuity, consciousness, institutions or combinations?
 - How can human-descended influence be maintained without subordinating other conscious life?
 - How can flourishing be evaluated without imposing one universal purpose?
 - What does 'evolution' mean when direction and goals may change?
+- What can 'viability' mean when no fixed formal system decides it for every future time ([MATHEMATICS.md](MATHEMATICS.md) section 9)?
 
 **Output:** operational definitions, alternative formulations and documented disagreements.
 
-## Workstream 2 — Ethical and institutional safeguards
+## Workstream 2: Ethical and institutional safeguards
 
 - Design participatory processes for living, future and non-human stakeholders.
 - Identify unacceptable means of pursuing survival.
@@ -25,7 +26,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 
 **Output:** a revisable governance charter with explicit dissent and appeal mechanisms.
 
-## Workstream 3 — Civilisational memory
+## Workstream 3: Civilisational memory
 
 - Specify provenance, authenticity, replication and disaster recovery.
 - Separate preservation, access and interpretation.
@@ -35,17 +36,19 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 
 **Output:** archival requirements, threat models and demonstrable restoration tests.
 
-## Workstream 4 — Mathematical model
+## Workstream 4: Mathematical model
 
 - Formalise stage-dependent state spaces and transition operators.
-- Decide whether ternary states encode decisions, physical states, or abstract degrees of freedom.
+- Decide whether ternary states encode decisions, physical states or abstract degrees of freedom.
 - Compare balanced ternary with binary, continuous and other representations.
 - Explore coupled phase models, information preservation and path dependence.
+- State the model's axioms explicitly; catalogue which questions about trajectories are undecidable within them (Gödel, [MATHEMATICS.md](MATHEMATICS.md) section 9).
+- Define the extension step: whether \(\Delta D_n\) corresponds to added axioms and whether bounded-horizon viability can be proved stage by stage.
 - Identify observable consequences; abandon formalisms that add no explanatory power.
 
 **Output:** explicit definitions, proofs where possible, simulations and counterexamples.
 
-## Workstream 5 — Cosmological survival
+## Workstream 5: Cosmological survival
 
 - Review long-term cosmological models and their observational constraints.
 - Examine dark-energy scenarios and entropy in expanding spacetimes.
@@ -61,7 +64,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 |---|---|
 | M1: Shared vocabulary | Terms defined; major disagreements recorded |
 | M2: Ethical stress tests | Adversarial scenarios and objections published |
-| M3: Formal model v0 | Assumptions, equations, examples and failure cases |
+| M3: Formal model v0 | Assumptions, equations, examples and failure cases; axioms stated and undecidable questions catalogued |
 | M4: Historical archive prototype | Integrity, retrieval and review demonstrated |
 | M5: Cosmological review | Competing models, evidence and uncertainties documented |
 | M6: Public revision | Critiques incorporated with versioned rationale |
@@ -75,10 +78,18 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 - Are 'dimensions' being confused with physical spacetime?
 - Does the model produce predictions or only metaphors?
 - Can a future generation reject inherited values without losing access to inherited evidence?
+- Is incompleteness being invoked as a licence for vagueness, mysticism or unfalsifiable claims?
+
+## Roadmap
+
+Each release adds one evaluation and integrates it through every document it touches. The record of what changed is [CHANGELOG.md](CHANGELOG.md); the current version is in `VERSION`.
+
+- **0.2.0, this release:** Gödel's incompleteness theorems, stated in [MATHEMATICS.md](MATHEMATICS.md) section 9 and carried as a labelled caution into the vision, ethics, architects, memory and cosmology documents.
+- **0.3.0, planned:** modern economic theory as a further constraint set. Candidate scope, to be defined before any text is written: resource allocation under thermodynamic limits (Georgescu-Roegen's entropy economics as a starting point); incentive design and the distortion incentives impose on long-horizon decisions; intergenerational public goods and discounting; the economics of preserving information. Nothing in 0.2.0 depends on it.
 
 ## Contribution conventions
 
-Label claims as **normative**, **definition**, **mathematical result**, **empirical evidence**, **hypothesis**, or **speculation**. Cite primary research for physical claims. Preserve a changelog of substantive revisions and objections.
+Label claims as **normative**, **definition**, **mathematical result**, **empirical evidence**, **hypothesis** or **speculation**. Cite primary research for physical claims. Record substantive revisions and objections in [CHANGELOG.md](CHANGELOG.md).
 
 ## Next
 

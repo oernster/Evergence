@@ -4,13 +4,13 @@
 
 ## The central cosmological question
 
-**Is the eventual loss of conditions suitable for life unavoidable, or could future physics and technology permit continued survival and evolution?**
+**Is the eventual loss of conditions suitable for life unavoidable? Or could future physics and technology permit continued survival and evolution?**
 
 This is an open research question, not a claim that heat death can be defeated.
 
 ## What heat death means
 
-In a common long-term scenario for an accelerating universe, usable free-energy gradients become increasingly scarce. Stars cease forming, existing energy sources are exhausted or inaccessible, and sustaining organised processes becomes progressively harder.
+In a common long-term scenario for an accelerating universe, usable free-energy gradients become increasingly scarce. Stars cease forming, existing energy sources are exhausted or inaccessible and sustaining organised processes becomes progressively harder.
 
 Heat death is not simply 'all energy disappears'. The issue is the availability of energy that can perform work, together with entropy, causal accessibility and the thermodynamics of computation.
 
@@ -22,13 +22,14 @@ For an isolated system, the second law is conventionally expressed as:
 
 Applying thermodynamics to the entire expanding universe involves subtleties: gravitational entropy, horizons, cosmological boundary conditions and the scope of the system must be handled carefully.
 
-## What is established, and what is uncertain
+## What is established and what is uncertain
 
 - The universe is expanding; accelerated expansion is supported by observations.
 - The standard \(\Lambda\)CDM model describes much observed cosmological behaviour.
 - The physical nature and long-term behaviour of dark energy remain open to investigation.
 - String-theoretic and M-theoretic extra dimensions are theoretical, not confirmed features of spacetime.
 - The existence of a traversable multiverse or a civilisation-preserving universe transition is unestablished.
+- Whether a complete and final physical theory is available at all is itself open. Hawking argued, in the 2002 lecture 'Gödel and the End of Physics', that incompleteness may bear on any theory of everything. That is a hypothesis about physical theories, not an established result; it says nothing about whether heat death can be avoided (see [MATHEMATICS.md](MATHEMATICS.md) section 9).
 
 Recent observational programmes, including DESI, have investigated whether dark energy evolves. Such hints are not proof of an alternative cosmic fate.
 

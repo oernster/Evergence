@@ -16,13 +16,15 @@ Preservation does not mean every detail must be universally broadcast.
 2. **Access:** provide legitimate, reviewable paths to retrieve historical material.
 3. **Interpretation:** supply evidence-based context and warnings while keeping original records distinct from commentary.
 
-Restricted access to particularly harmful operational details may be warranted, but restrictions require stated reasons, proportionate scope, independent oversight and periodic reconsideration.
+Restricted access to particularly harmful operational details may be warranted; restrictions then require stated reasons, proportionate scope, independent oversight and periodic reconsideration.
 
-The aspiration that all civilisational life can obtain archived material must be reconciled with privacy, protection of victims, and risks from instructions that enable serious harm. Access policies should be challengeable rather than absolute.
+The aspiration that all civilisational life can obtain archived material must be reconciled with privacy, protection of victims and risks from instructions that enable serious harm. Access policies should be challengeable rather than absolute.
 
 ## Authenticity and historical disagreement
 
 Preserve original versions, provenance, corrections and competing interpretations. Do not silently replace records with sanitised narratives. An architect's explanation is not the historical record itself.
+
+A civilisation's account of itself is not self-certifying. Independent archivists and provenance checks held outside the institution being recorded are the practical form of that caution (speculation, by analogy with incompleteness; see [MATHEMATICS.md](MATHEMATICS.md) section 9).
 
 Recommended archival practices include:
 
@@ -31,7 +33,7 @@ Recommended archival practices include:
 - Open, migratable formats and periodic readability tests.
 - Versioned annotations rather than destructive edits.
 - Independent archivists and appeals against access restrictions.
-- Privacy-aware retention, minimisation of unnecessary personal data, and protection for victims.
+- Privacy-aware retention, minimisation of unnecessary personal data and protection for victims.
 - Long-term disaster recovery and continuity planning.
 
 ## Mathematical sketch

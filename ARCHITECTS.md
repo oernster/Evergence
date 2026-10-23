@@ -21,15 +21,17 @@ No single person can embody every discipline or every community. These are quali
 
 ## Representation and legitimacy
 
-Architects must be answerable to affected populations. Governance should incorporate diverse human perspectives and, as understanding permits, meaningful representation for other conscious entities. Expertise informs decisions; it does not replace consent, scrutiny or public reasoning.
+Architects must be answerable to affected populations. Governance should incorporate diverse human perspectives and (as understanding permits) meaningful representation for other conscious entities. Expertise informs decisions; it does not replace consent, scrutiny or public reasoning.
 
 Useful safeguards include term limits where appropriate, transparent mandates, independent review, appeals, distributed custodianship, conflict-of-interest rules and mechanisms for replacing failing stewards.
+
+Independent review has a further reason, offered as speculation by analogy with Gödel's second theorem ([MATHEMATICS.md](MATHEMATICS.md) section 9): a sufficiently rich formal system cannot certify its own consistency from inside. An institution that audits only itself stands in the same position. External review is on this reading a structural need rather than a courtesy.
 
 ## Guidance rather than enforced obedience
 
 An architect may warn that a course of action resembles a historical failure, explain the evidence and suggest safer alternatives. Guidance should include uncertainty and what evidence could change the recommendation.
 
-Architects should not monopolise interpretation, suppress dissent merely because it challenges them, or convert caution into permanent paternalism.
+Architects should not monopolise interpretation, suppress dissent merely because it challenges them or convert caution into permanent paternalism.
 
 ## The architect across transitions
 

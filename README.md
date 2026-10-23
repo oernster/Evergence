@@ -17,7 +17,7 @@ This repository is a **starting point for inquiry, not a declaration of discover
 2. [Ethical foundations](ETHICS.md): life, love, enjoyment, autonomy and the rejection of destructive 'perfect balance'.
 3. [Architects and governance](ARCHITECTS.md): the character, competence, limits and accountability of future architects.
 4. [Civilisational memory](MEMORY.md): preserve historical evidence without imposing historical obedience.
-5. [Mathematical foundations](MATHEMATICS.md): Euler's identity, balanced ternary, infinite-dimensional models and their limitations.
+5. [Mathematical foundations](MATHEMATICS.md): Euler's identity, balanced ternary, infinite-dimensional models, Gödel's incompleteness theorems and their limitations.
 6. [Cosmology and survival](COSMOLOGY.md): heat death, thermodynamic constraints and speculative escape scenarios.
 7. [Research programme](RESEARCH.md): testable questions, open problems and criteria for progress.
 8. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
@@ -36,13 +36,13 @@ This repository is a **starting point for inquiry, not a declaration of discover
 
 ## Status and epistemic boundaries
 
-**Established mathematics:** balanced ternary, Euler's formula, roots of unity, infinite product spaces.
+**Established mathematics:** balanced ternary, Euler's formula, roots of unity, infinite product spaces, Gödel's incompleteness theorems.
 
 **Established or evidence-supported physics:** thermodynamics, the observed expansion of the universe and the current standard cosmological model within its tested domain.
 
 **Unsettled physics:** the ultimate fate of the universe, the nature of dark energy and whether new physics could alter long-term cosmological outcomes.
 
-**Speculative constructions:** assigning ternary states to arbitrarily many dimensions; interpreting civilisational evolution as new degrees of freedom; cosmological transitions that preserve a civilisation.
+**Speculative constructions:** assigning ternary states to arbitrarily many dimensions; interpreting civilisational evolution as new degrees of freedom; reading evolutionary stages as extensions of a formal system; cosmological transitions that preserve a civilisation.
 
 No mathematical elegance, by itself, establishes physical reality.
 
@@ -52,4 +52,4 @@ Begin with [VISION.md](VISION.md), then [ETHICS.md](ETHICS.md) and [ARCHITECTS.m
 
 The project invites scientific objections, alternative ethical frameworks, counterexamples and improvements. In particular, proposals must be examined for coercion, concentration of power, exclusion, irreversible harm and misuse.
 
-See [RESEARCH.md](RESEARCH.md) for an initial agenda.
+See [RESEARCH.md](RESEARCH.md) for an initial agenda and the roadmap. Substantive revisions are recorded in [CHANGELOG.md](CHANGELOG.md); the current version is in `VERSION`.

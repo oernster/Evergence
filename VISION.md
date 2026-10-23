@@ -12,7 +12,7 @@ This is a **normative ambition**, not a claim that indefinite survival is possib
 
 Technological progress, economic resources, dimensional expansion, knowledge, energy acquisition and political institutions are instruments. Their value depends on what they enable for living beings.
 
-Accumulation for accumulation's sake — whether of money, territory, computational power or dimensions — is not the objective.
+Accumulation for accumulation's sake, whether of money, territory, computational power or dimensions, is not the objective.
 
 ## Evolution and direction
 
@@ -50,6 +50,8 @@ for every future time t:
 
 This is **not a theorem**. 'Physically achievable', 'human-descended', 'meaningful' and 'evolution' all require operational definitions. A stronger theory would address resilience across many disturbances, not merely one fortunate trajectory.
 
+Gödel's incompleteness theorems add a structural caution (hypothesis; the theorems themselves are stated in [MATHEMATICS.md](MATHEMATICS.md) section 9). Once the terms are defined inside a formal system rich enough to count configurations, there will be statements about the system's own trajectories it cannot settle; nor can it certify its own consistency. A viable civilisation therefore needs the capacity to extend its theory of itself, not merely to apply it. On this reading open-endedness is a requirement of the ambition rather than an ornament to it.
+
 ## What is not being proposed
 
 - A prescribed purpose for all life.
@@ -58,6 +60,7 @@ This is **not a theorem**. 'Physically achievable', 'human-descended', 'meaningf
 - An obligation to maintain present human biology unchanged.
 - A predetermined perfect society.
 - A claim that current physics already permits escape from heat death.
+- A complete and final theory of viability, which incompleteness makes unlikely in principle.
 - An architect with unquestionable authority.
 
 ## Next

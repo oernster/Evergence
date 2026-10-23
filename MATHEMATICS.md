@@ -95,7 +95,7 @@ A weighted projection can converge:
 Z(X)=\sum_{k=1}^{\infty}2^{-k}\omega^{d_k}.
 \]
 
-This is well-defined, but need not uniquely encode the original sequence.
+This is well-defined but need not uniquely encode the original sequence.
 
 ## 6. Evolutionary dimensional expansion
 
@@ -127,15 +127,34 @@ A schematic civilisational transition is:
 C_{n+1}=F(C_n,H_n,\Delta D_n).
 \]
 
-Here \(C_n\) is the current civilisation, \(H_n\) its preserved history, and \(\Delta D_n\) newly available degrees of freedom. The function \(F\) is unspecified; defining and testing it is a research problem.
+Here \(C_n\) is the current civilisation, \(H_n\) its preserved history and \(\Delta D_n\) newly available degrees of freedom. The function \(F\) is unspecified; defining and testing it is a research problem.
 
-## 9. Limitations and falsifiability
+## 9. Incompleteness and the limits of formalisation
+
+Gödel's incompleteness theorems (1931) are established mathematics. They concern a formal system \(F\) that is consistent, effectively axiomatised and able to express a modest amount of elementary arithmetic.
+
+**First theorem.** \(F\) is incomplete: there is a sentence in the language of \(F\) that \(F\) can neither prove nor refute.
+
+**Second theorem.** \(F\) cannot prove its own consistency. A proof of \(\mathrm{Con}(F)\) inside \(F\) exists only if \(F\) is inconsistent.
+
+Three consequences for this project, each with its label.
+
+1. **Mathematical result.** Any formalisation of the transition model \(C_{n+1}=F(C_n,H_n,\Delta D_n)\) rich enough to carry arithmetic (and a model that counts the configurations of \(\{-1,0,+1\}^D\) already does) contains true statements about its own trajectories that it cannot prove; nor can it certify from inside that it is free of contradiction.
+2. **Definition.** Extending \(F\) with a new axiom yields a system \(F'\) that proves more and is again incomplete. No finite extension closes the gap; the chain \(F\subset F'\subset F''\subset\cdots\) is unbounded.
+3. **Hypothesis.** The dimensional-expansion step \(D_{n+1}=D_n+\Delta D_n\) can be read as that extension step: a civilisation at stage \(n+1\) reasons in a system that settles questions stage \(n\) could pose but not decide, then meets undecidable questions of its own. On this reading open-endedness is a formal property rather than a slogan. The reading is unproved and may be wrong.
+
+**What incompleteness does not say.** It does not say that everything is unknowable, that mathematics is unreliable or that any particular question lies beyond every system: each undecidable sentence is decidable in some extension. It applies to formal systems meeting the stated conditions, not to physical theories, ethical commitments or institutions as such. Where this project draws an analogy to those ([ETHICS.md](ETHICS.md), [ARCHITECTS.md](ARCHITECTS.md), [MEMORY.md](MEMORY.md)) the analogy is labelled speculation and must not be read as a theorem about them. The theorems concern provability, not truth and not physical possibility; a civilisation survives or does not whatever its mathematics can prove.
+
+**Consequence for the viability statement.** The aspirational condition in [VISION.md](VISION.md) quantifies over every future time \(t\). Even with every term operationally defined, no single fixed formal system should be expected to decide it; a programme demanding a once-and-for-all proof of viability asks for what the theorems make unlikely in principle. What can be sought instead is a sequence of systems, each proving viability over a bounded horizon, with the extension step itself an object of study (Workstream 4 in [RESEARCH.md](RESEARCH.md)).
+
+## 10. Limitations and falsifiability
 
 - Infinite abstract state spaces do not imply infinite energy or computation.
 - New mathematical coordinates do not imply new physical dimensions.
 - Elegant symmetries do not establish a model of the universe.
 - Physical models require dynamics, measurable quantities and empirically distinguishable predictions.
 - If balanced ternary proves unhelpful, the survival objective takes precedence over preserving this formalism.
+- Incompleteness is a result about formal systems. Invoking it for a claim that is not one is an analogy and must be labelled as one.
 
 ## Next
 

@@ -10,6 +10,10 @@
 
 **Civilisational memory:** Authentic, retrievable historical evidence, including mistakes, preserved across generations and transitions.
 
+**Consistency:** The property of a formal system that no statement is both provable and refutable within it.
+
+**Decidability:** A statement is decidable in a formal system when the system proves it or refutes it; undecidable when it does neither.
+
 **Dimension (mathematical):** An independent coordinate or degree of freedom in a model. Not necessarily a physical spatial dimension.
 
 **Dimension (physical):** A coordinate of physical spacetime or another physically established degree of freedom. Extra spacetime dimensions remain hypothetical.
@@ -24,9 +28,13 @@
 
 **Flourishing:** A plural, contestable family of goods that may include joy, love, relationships, autonomy, creativity and self-chosen meaning.
 
+**Formal system:** A language, a set of axioms and rules of inference from which theorems are derived mechanically. Gödel's theorems apply to those that are consistent, effectively axiomatised and able to express elementary arithmetic.
+
 **Heat death:** A proposed long-term cosmological condition in which usable free-energy gradients become insufficient to support complex processes.
 
 **Human-descended agency:** Meaningful ability of an entity continuous with humanity to influence its own trajectory, subject to consideration of other conscious beings.
+
+**Incompleteness theorems (Gödel):** Two results of 1931. First: a consistent, effectively axiomatised formal system able to express elementary arithmetic contains a sentence it can neither prove nor refute. Second: such a system cannot prove its own consistency. They concern provability within formal systems; applied to anything else they are analogies.
 
 **M-theory:** A theoretical framework associated with eleven-dimensional spacetime; not experimentally established as a description of reality.
 
