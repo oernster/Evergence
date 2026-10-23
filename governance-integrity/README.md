@@ -29,6 +29,8 @@ The institution's self-description as benevolent is not evidence that its action
 
 The project maxim **“Who Dares to Care Wins”** is explained in [the courage to care](COURAGE_TO_CARE.md). It is an ethical aspiration, not a promise that every caring intervention succeeds or an instruction to impose a uniform definition of victory.
 
+A companion adjunct, [Care beyond reciprocity](../care-and-influence/README.md), extends the courage-to-care inquiry to benevolence that is never seen, influence without acquaintance and gratitude that creates no debt.
+
 ## Scope limits
 
 - No immunity for founders, architects, protectors, investigators or auditors.

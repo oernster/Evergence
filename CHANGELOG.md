@@ -9,6 +9,7 @@ Three provisional research tracks beside the framework, each in its own director
 - `linguistic-evolution/` (eight files): language as a culturally evolving system, archival stewardship (archived means preserved and recoverable, never destroyed), governance safeguards against linguistic authoritarianism, a bounded case study of Nazi euphemism, a research programme with six pilots and sources.
 - `civilisational-resilience/` (six files): distributing protective capability without eugenics or reproductive control, reproductive autonomy and child rights, the earlier-life high-threat hypothetical held as a speculative scenario, governance pilots and sources.
 - `governance-integrity/` (nine files): fallibility and correction, reciprocal oversight, benevolent strength and restraint, tragic choices, evidence and civilisational time, the courage to care, what counts as winning, research and adversarial tests.
+- `care-and-influence/` (four files), a companion to the governance track linked from its index: benevolence that is never seen or credited, intellectual influence without personal acquaintance, gratitude as voluntary rather than a debt, the Greek love vocabulary held as useful distinctions rather than a fixed taxonomy, a research programme with a threat model.
 - [README.md](README.md) items 10 to 12 and a root [START_HERE.md](START_HERE.md) link the three tracks; the site carries a section for them.
 
 ### 0.3.0: Economics
