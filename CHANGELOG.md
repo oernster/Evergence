@@ -10,7 +10,8 @@ Three provisional research tracks beside the framework, each in its own director
 - `civilisational-resilience/` (six files): distributing protective capability without eugenics or reproductive control, reproductive autonomy and child rights, the earlier-life high-threat hypothetical held as a speculative scenario, governance pilots and sources.
 - `governance-integrity/` (nine files): fallibility and correction, reciprocal oversight, benevolent strength and restraint, tragic choices, evidence and civilisational time, the courage to care, what counts as winning, research and adversarial tests.
 - `care-and-influence/` (four files), a companion to the governance track linked from its index: benevolence that is never seen or credited, intellectual influence without personal acquaintance, gratitude as voluntary rather than a debt, the Greek love vocabulary held as useful distinctions rather than a fixed taxonomy, a research programme with a threat model.
-- [README.md](README.md) items 10 to 12 and a root [START_HERE.md](START_HERE.md) link the three tracks; the site carries a section for them.
+- `iul-mars/` (one document): the Integration Up Level sequence, a repeated-integration discipline in which every constant is kept and fixed only by a stated condition, applied to a coupled Martian inventory ledger beginning with carbon dioxide electrolysis; the three scenarios (enclosed, regional, global) kept distinct, the global one held as a long-horizon research scenario with the published feasibility limits stated; the ethical, scientific and institutional gates before any intervention; TrellisDB as the experimental store; a development sequence M0 to M5.
+- [README.md](README.md) items 10 to 13 and a root [START_HERE.md](START_HERE.md) link the tracks; the site carries a section for them.
 
 ### 0.3.0: Economics
 

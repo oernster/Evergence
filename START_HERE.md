@@ -7,7 +7,8 @@
 1. **[Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md)**: the proposed general mechanism for all human languages, a falsifiable research programme, preservation without erasure and anti-authoritarian safeguards.
 2. **[Civilisational capability distribution and non-eugenic resilience](civilisational-resilience/README.md)**: a separate adjunct asking how communities can avoid dangerous shortages or concentration of protective capabilities *without reproductive control or predetermined individual worth*.
 3. **[Governance integrity, courage to care and living well](governance-integrity/README.md)**: accountable power, caring intervention, fallibility and plural definitions of a good life.
-4. **[Original Evergence framework](README.md)**: the existing project's primary starting point and authoritative commitments, including [`ETHICS.md`](ETHICS.md), [`MEMORY.md`](MEMORY.md), [`ARCHITECTS.md`](ARCHITECTS.md) and [`RESEARCH.md`](RESEARCH.md).
+4. **[Integration Up Levels and Martian atmospheric engineering](iul-mars/README.md)**: a repeated-integration discipline that keeps every constant, applied to a Mars inventory ledger with its feasibility limits and ethical gates stated.
+5. **[Original Evergence framework](README.md)**: the existing project's primary starting point and authoritative commitments, including [`ETHICS.md`](ETHICS.md), [`MEMORY.md`](MEMORY.md), [`ARCHITECTS.md`](ARCHITECTS.md) and [`RESEARCH.md`](RESEARCH.md).
 
 ## Common commitments
 
