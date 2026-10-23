@@ -2,6 +2,15 @@
 
 Substantive revisions to the framework, as [RESEARCH.md](RESEARCH.md) asks. Each entry names what was added, which documents it reached and how the added claims are labelled. Objections that changed the text are recorded with the change that answered them.
 
+### Unreleased: Research extensions
+
+Three provisional research tracks beside the framework, each in its own directory with its own entry point. They specialise the commitments of the nine documents; they do not amend them; the nine remain the framework.
+
+- `linguistic-evolution/` (eight files): language as a culturally evolving system, archival stewardship (archived means preserved and recoverable, never destroyed), governance safeguards against linguistic authoritarianism, a bounded case study of Nazi euphemism, a research programme with six pilots and sources.
+- `civilisational-resilience/` (six files): distributing protective capability without eugenics or reproductive control, reproductive autonomy and child rights, the earlier-life high-threat hypothetical held as a speculative scenario, governance pilots and sources.
+- `governance-integrity/` (nine files): fallibility and correction, reciprocal oversight, benevolent strength and restraint, tragic choices, evidence and civilisational time, the courage to care, what counts as winning, research and adversarial tests.
+- [README.md](README.md) items 10 to 12 and a root [START_HERE.md](START_HERE.md) link the three tracks; the site carries a section for them.
+
 ### 0.3.0: Economics
 
 - [ECONOMICS.md](ECONOMICS.md) is new, the seventh document in the reading order: why economics enters as a constraint set; what is established and what is contested, each item labelled (scarcity, present-value arithmetic, the discount rate as a normative choice, hyperbolic discounting, entropy economics, public goods and the commons record, incentives and Goodhart, the thermodynamic cost of information); five consequences for the framework, each labelled hypothesis; a toy budget across survival, memory and evolution, labelled speculation; what economics does not settle; red-team questions.

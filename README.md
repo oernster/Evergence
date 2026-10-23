@@ -24,8 +24,9 @@ This repository is a **starting point for inquiry, not a declaration of discover
 9. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
 10. [Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md): universal language-evolution research, preservation and anti-authoritarian safeguards.
 11. [Civilisational capability distribution without eugenics](civilisational-resilience/README.md): a rights-based research adjunct on resilient access to expertise without reproductive control.
+12. [Governance integrity, courage to care and living well](governance-integrity/README.md): accountable power, caring intervention, fallibility and plural definitions of a good life.
 
-Items 10 and 11 are provisional research extensions with an entry point of their own at [START_HERE.md](START_HERE.md); the nine documents above remain the framework.
+Items 10 to 12 are provisional research extensions with an entry point of their own at [START_HERE.md](START_HERE.md); the nine documents above remain the framework.
 
 ## Guiding commitments
 
