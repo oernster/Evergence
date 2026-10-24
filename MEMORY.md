@@ -52,7 +52,7 @@ Those costs make preservation an allocation decision. [ECONOMICS.md](ECONOMICS.m
 
 ## Memory should inform, not imprison
 
-History is evidence for future decisions, not a command to reproduce past norms. Future generations must be able to reinterpret evidence and reject inherited assumptions while retaining access to the underlying sources.
+History is evidence for future decisions, not a command to reproduce past norms. Future generations must be able to reinterpret evidence and reject inherited assumptions while retaining access to the underlying sources. The same holds for authority: a community may change the root of its legitimate authority while the record of the earlier root, the transition and the dissent stays recoverable ([plural rooting](plural-rooting/README.md)).
 
 ## Next
 

@@ -23,6 +23,8 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 - Model conflicts among survival, autonomy, privacy, biodiversity and justice.
 - Design selection, oversight, correction and removal procedures for architects.
 - Test proposals against coercive or catastrophic optimisation failures.
+- Test whether a record of authority can keep historical origin, present authority, ongoing relationships and shared achievements as separate relations, so that ancestry never reads as authority and independence never reads as justice; the ten tests and the failure conditions are in [plural rooting](plural-rooting/README.md).
+- Test whether a re-rooting (a change of sovereignty root) can be represented with the earlier authority, the transition and the dissent all still recoverable from the archive.
 
 **Output:** a revisable governance charter with explicit dissent and appeal mechanisms.
 
@@ -93,6 +95,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 - Is incompleteness being invoked as a licence for vagueness, mysticism or unfalsifiable claims?
 - Has a discount rate been applied anywhere without being argued?
 - Is economic vocabulary carrying a growth imperative back in?
+- Does any representation of authority let historical origin stand in for present legitimacy or let agreement between two governments stand in for the consent of everyone affected?
 
 ## Roadmap
 

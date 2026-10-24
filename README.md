@@ -26,8 +26,9 @@ This repository is a **starting point for inquiry, not a declaration of discover
 11. [Civilisational capability distribution without eugenics](civilisational-resilience/README.md): a rights-based research adjunct on resilient access to expertise without reproductive control.
 12. [Governance integrity, courage to care and living well](governance-integrity/README.md): accountable power, caring intervention, fallibility and plural definitions of a good life.
 13. [Integration Up Levels and Martian atmospheric engineering](iul-mars/README.md): an auditable repeated-integration discipline with its constants kept, applied to a coupled Mars inventory ledger, with the feasibility limits stated and the ethical gates before any intervention.
+14. [Plural rooting, routing and shared works](plural-rooting/README.md): how a community establishes independent authority while keeping its historical roots, rebuilding voluntary relationships and making shared works; illustrated from American independence and the Entente Cordiale to the Statue of Liberty and the Eiffel Tower, with cautious implications for Earth and Mars.
 
-Items 10 to 13 are provisional research extensions with an entry point of their own at [START_HERE.md](START_HERE.md); the nine documents above remain the framework.
+Items 10 to 14 are provisional research extensions with an entry point of their own at [START_HERE.md](START_HERE.md); the nine documents above remain the framework.
 
 ## Guiding commitments
 

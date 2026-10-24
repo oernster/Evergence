@@ -224,6 +224,8 @@ The program may produce valuable engineering discoveries even if Scenario C neve
 
 The ability to engineer something does not by itself imply that it ought to be done.
 
+How settlements that later develop independently might be governed, with Earth-to-Mars heritage, scoped operational agreements and political claims kept as separate relations, is taken up in [plural rooting](../plural-rooting/README.md). Nothing there alters the physics here; no physics follows from a governance analogy.
+
 ## 8. TrellisDB role and sample experimental schema
 
 TrellisDB's fixed-length tuple-of-string keys are suitable for a correctness-first prototype. Keep numerical solvers in a separate package. Example fixed five-dimensional key:

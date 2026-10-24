@@ -4,6 +4,8 @@
 
 **Architect:** A responsible steward or group helping civilisation develop conditions for survival and evolution; not an unquestionable ruler.
 
+**Authority scope:** The bounded domain, mandate, duration, constituency, accountability and means of revocation that define what an authority may decide; an authority without a stated scope is an unlimited one.
+
 **Balanced ternary:** A base-three integer representation with digits −1, 0 and +1.
 
 **Civilisational continuity:** A meaningful connection between a future entity and its human or other living predecessors; its precise criteria are unresolved.
@@ -38,6 +40,8 @@
 
 **Heat death:** A proposed long-term cosmological condition in which usable free-energy gradients become insufficient to support complex processes.
 
+**Historical root:** An entity's origin and provenance as recorded in the archive. It confers identity and ancestry, never present authority; the distinction is the point of [plural rooting](plural-rooting/README.md).
+
 **Human-descended agency:** Meaningful ability of an entity continuous with humanity to influence its own trajectory, subject to consideration of other conscious beings.
 
 **Incompleteness theorems (Gödel):** Two results of 1931. First: a consistent, effectively axiomatised formal system able to express elementary arithmetic contains a sentence it can neither prove nor refute. Second: such a system cannot prove its own consistency. They concern provability within formal systems; applied to anything else they are analogies.
@@ -48,13 +52,25 @@
 
 **Opportunity cost:** What a use of a scarce resource forecloses; the value of the best alternative not taken.
 
+**Plural-root architecture:** A representation of civilisation in which several scoped, contestable roots of authority coexist, with ancestry, authority, routes and shared works recorded as separate kinds of relationship; proposed in [plural rooting](plural-rooting/README.md) as a sketch, not a law.
+
 **Possibility vs accessibility:** A state can be mathematically describable yet physically impossible or unreachable.
 
 **Preservation vs publication:** Keeping an authentic record is distinct from making every detail freely available without contextual or safety controls.
 
 **Public good:** A good that is non-excludable and non-rival, which uncoordinated self-interested agents under-provide; a habitable environment, a preserved record and the continuity of a lineage are intergenerational examples.
 
+**Re-rooting:** The act by which an entity establishes (or has recognised) a new foundation for its decision-making authority while keeping authenticated knowledge of its earlier roots. The second clause is what distinguishes it from secession with erasure.
+
 **Roots of unity:** Complex numbers whose powers equal one; the three cube roots form a natural threefold rotational symmetry.
+
+**Rout:** The defeat or displacement of a force; by analogy, a contest or displacement of an established authority arrangement. The word's resemblance to *root* and *route* and its anagram *tour* are a mnemonic and nothing more.
+
+**Route:** A path or connection; by analogy, a recorded pathway for trade, diplomacy, learning, travel or delegated operation between entities, carrying its own consent and status.
+
+**Shared work:** An achievement with several contributors in distinguishable roles, recorded with its collaborators, its overlooked labour, the communities affected and the differences among ownership, stewardship and significance.
+
+**Sovereignty root:** The present foundation of an entity's legitimate decision-making authority, as distinct from its historical root; it may change by re-rooting while the historical root stays in the record.
 
 **Survival objective:** The ambition to maintain life, continuity and capacity for evolution; not a permission to use any means.
 

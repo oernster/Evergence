@@ -39,7 +39,7 @@ Architects should not monopolise interpretation, suppress dissent merely because
 
 At evolutionary stage n, the architect's competence and legitimacy must be assessed relative to the living civilisation of that stage. New scientific, ethical and artistic understandings may demand new institutions and qualifications.
 
-Continuity of responsibility does not imply continuity of individual rulers.
+Continuity of responsibility does not imply continuity of individual rulers. Nor does historical origin imply present authority: how a community may establish a new root of legitimate authority while keeping its history and its relationships is examined in the [plural rooting](plural-rooting/README.md) extension.
 
 ## Questions for later study
 
