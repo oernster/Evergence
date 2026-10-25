@@ -102,7 +102,8 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 Each release adds one evaluation and integrates it through every document it touches. The record of what changed is [CHANGELOG.md](CHANGELOG.md); the current version is in `VERSION`.
 
 - **0.2.0:** Gödel's incompleteness theorems, stated in [MATHEMATICS.md](MATHEMATICS.md) section 9 and carried as a labelled caution into the vision, ethics, architects, memory and cosmology documents.
-- **0.3.0, this release:** modern economic theory as a constraint set, in [ECONOMICS.md](ECONOMICS.md): scarcity, discounting as a normative decision, entropy economics, intergenerational public goods and the commons record, incentives and Goodhart, the thermodynamic cost of memory, a toy budget. Carried into the vision, ethics, architects, memory, mathematics and cosmology documents, with Workstream 6 and milestone M7 here.
+- **0.3.0:** modern economic theory as a constraint set, in [ECONOMICS.md](ECONOMICS.md): scarcity, discounting as a normative decision, entropy economics, intergenerational public goods and the commons record, incentives and Goodhart, the thermodynamic cost of memory, a toy budget. Carried into the vision, ethics, architects, memory, mathematics and cosmology documents, with Workstream 6 and milestone M7 here.
+- **0.4.0 to 0.7.0:** research extensions beside the framework (linguistic evolution, civilisational resilience, governance integrity with care and influence, Integration Up Levels and Mars, plural rooting), each in its own directory. No evaluation was added to the framework itself; [CHANGELOG.md](CHANGELOG.md) records each release.
 - **Next evaluation:** not yet chosen. Candidates are recorded as objections arrive.
 
 ## Contribution conventions
