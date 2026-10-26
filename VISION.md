@@ -4,17 +4,17 @@
 
 ## Central ambition
 
-Seek conditions under which humanity and other life can **survive and continue evolving**, without an unavoidable terminal fate and without imposing stagnation. A recognisably human-descended entity should retain controlling or at least substantial influence over its own trajectory. What constitutes continuity of identity and legitimate influence is unresolved and requires collective examination.
+Seek conditions under which humanity and other life can **survive and continue evolving**, without an unavoidable terminal fate and without imposing stagnation. A recognisably human-descended entity (by which I mean for example, were we to be homo erectus, then homo sapiens might be a descendant entity etc etc) should retain controlling or at least substantial influence over its own trajectory. What constitutes continuity of identity and legitimate influence is unresolved and requires collective examination by the society is is present at the time of analysis.
 
-This is a **normative ambition**, not a claim that indefinite survival is possible.
+Whilst it would be lovely to have indefinite survival; this is simply an attempt to optimise for future scenarios and survival within that.
 
-## Means are not ends
+## Means are not ends - this is a generalisation for different concepts that much like money is a means to an end not the end itself; these instruments fit that category too.
 
 Technological progress, economic resources, dimensional expansion, knowledge, energy acquisition and political institutions are instruments. Their value depends on what they enable for living beings.
 
-Accumulation for accumulation's sake, whether of money, territory, computational power or dimensions, is not the objective.
+Accumulation for accumulation's sake, whether of money, territory, computational power or dimensions, is not the objective.  When it becomes the objective, large bodies of individuals in society often lose out to a small group of those in power.
 
-Economic theory enters the framework on exactly this footing, as a set of constraints on how the instruments may be used, never as a reason to accumulate ([ECONOMICS.md](ECONOMICS.md)). One of those constraints is the quietest threat to the ambition: a positive discount rate applied across civilisational stages values the stage after next at nothing. The rate is therefore a normative commitment to be argued, not a parameter to be assumed.
+Economic theory enters the framework on exactly this footing, as a set of constraints on how the instruments may be used, never as a reason to accumulate ([ECONOMICS.md](ECONOMICS.md)). One of those constraints is the quietest threat to the ambition: a positive discount rate applied across civilisational stages values the stage after next at nothing. The rate is therefore a commitment to be argued, not a parameter to be assumed.
 
 ## Evolution and direction
 
