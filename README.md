@@ -1,6 +1,6 @@
 # <img width="128" height="128" alt="Sam" src="https://github.com/user-attachments/assets/a366a9d7-c7bc-48e3-aff6-c9d75eca455c" /> 
 # This is a plan to support evolution of the human race through physical expansion of the solar system and beyond.
-# Furthermore, steps to integrate Einstein's relativistic energy / mass equation to generate Oxygen for Martian terraforming and numerous conceptual frameworks beyond that.
+# Furthermore, steps to generate Oxygen for sealed Martian habitats from the carbon dioxide in the air, plus numerous conceptual frameworks beyond that.
 
 *A provisional philosophical, scientific and mathematical research framework.*
 
