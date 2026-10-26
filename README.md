@@ -1,6 +1,8 @@
 # <img width="128" height="128" alt="Sam" src="https://github.com/user-attachments/assets/a366a9d7-c7bc-48e3-aff6-c9d75eca455c" /> 
-# Evolution of the human race through physical expansion through the solar system and beyond
+# Evolution of the human race through physical expansion through the solar system and beyond.
 # Furthermore, steps to integrate Einstein's relativistic energy / mass equation to generate Oxygen for Martian terraforming.
+
+# This plan is supported by the mathematical premises introduced.
 
 *A provisional philosophical, scientific and mathematical research framework.*
 
