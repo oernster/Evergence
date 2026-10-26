@@ -29,12 +29,6 @@ The fictional elimination of half of life in *Avengers: Infinity War* illustrate
 
 Economics names the degenerate case: a measure that becomes a target ceases to measure (Goodhart), so any numerical balance adopted as an objective will be gamed by the structure around it ([ECONOMICS.md](ECONOMICS.md)). Keeping measures diagnostic is an ethical safeguard as well as a technical one.
 
-## Death as possibility, not universal compulsion
-
-The aspiration is not to forbid death as a concept but to investigate whether death and civilisational termination must be inevitable. Individual autonomy, difficult questions about end-of-life choices and the nature of future forms of life require separate ethical deliberation.
-
-Continued existence without freedom, meaningful experience or capacity for change would not fulfil the wider ambition.
-
 ## Provisional ethical constraints
 
 Any proposed survival mechanism should be assessed for:
