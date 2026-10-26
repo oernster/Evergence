@@ -6,9 +6,12 @@
 
 ## Purpose
 
-The primary ambition of this project is **the continued survival and evolution of humanity and other life**, while preserving meaningful human-descended agency and making room for other conscious entities to participate in decisions affecting their futures.
+The primary ambition of this project is **the continued survival and evolution of humanity and other life**, while preserving the ability of the descendants of the current civilisational groups retain the ability to influence their own life outcomes.  
+A key point of contention within this guide is to ensure that other conscious entities can continue to participate in decisions affecting their own futures.
 
-Expansion, technological advancement, additional dimensions, wealth, knowledge and even alterations to the physical environment are **means, not ends**. Survival must not become a justification for atrocity, domination, forced uniformity or compulsory stagnation.
+Expansion, technological advancement, additional dimensions, wealth, knowledge and even alterations to the physical environment are **means, not ends**. 
+
+Survival must not become a justification for atrocity, domination, forced uniformity or compulsory stagnation.
 
 This repository is a **starting point for inquiry, not a declaration of discovered physical laws or a final constitution for future civilisation**. Its postulates remain open to evidence, criticism and revision.
 
