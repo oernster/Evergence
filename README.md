@@ -1,5 +1,6 @@
 # <img width="128" height="128" alt="Sam" src="https://github.com/user-attachments/assets/a366a9d7-c7bc-48e3-aff6-c9d75eca455c" /> 
-# Civilisational Continuity and Open-Ended Evolution
+# Evolution of the human race through physical expansion through the solar system
+# Furthermore, steps to integrate Einstein's relativistic energy / mass equation to generate Oxygen for Martian terraforming.
 
 *A provisional philosophical, scientific and mathematical research framework.*
 
