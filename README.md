@@ -7,7 +7,15 @@
 ## Purpose
 
 The primary ambition of this project is **the continued survival and evolution of humanity and other life**, while preserving the ability of the descendants of the current civilisational groups retain the ability to influence their own life outcomes.  
+
 A key point of contention within this guide is to ensure that other conscious entities can continue to participate in decisions affecting their own futures.
+
+Noteworthy, is the idea that just like money is a means to an end and not the end itself in life; each of the items indicated below as also in this category but the true goal of life is up to an individual to decide for themselves.
+
+Examples of goals for life _MIGHT_ include aiming for maximising fun where possible but understanding that life also has it's difficulties so aiming to optimise for that constraint.
+Another might simply be that an individual with their family might simply want happiness; with food and shelter throughout their lives.
+I am simply proposing my personal philosophy to others; this is NOT to IMpose these ideas upon others.
+Ultimately, people can simply decide for themselves their own life paths. 
 
 Expansion, technological advancement, additional dimensions, wealth, knowledge and even alterations to the physical environment are **means, not ends**. 
 
