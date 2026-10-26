@@ -34,10 +34,10 @@ This repository is a **starting point for inquiry, not a declaration of discover
 7. [Economics, resources and incentives](ECONOMICS.md): scarcity, discounting as a normative choice, public goods, incentives and the cost of memory.
 8. [Research programme](RESEARCH.md): testable questions, open problems and criteria for progress.
 9. [Glossary](GLOSSARY.md): shared vocabulary and important distinctions.
-10. [Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md): universal language-evolution research, preservation and anti-authoritarian safeguards.
-11. [Civilisational capability distribution without eugenics](civilisational-resilience/README.md): a rights-based research adjunct on resilient access to expertise without reproductive control.
-12. [Governance integrity, courage to care and living well](governance-integrity/README.md): accountable power, caring intervention, fallibility and plural definitions of a good life.
-13. [Integration Up Levels and Martian atmospheric engineering](iul-mars/README.md): an auditable repeated-integration discipline with its constants kept, applied to a coupled Mars inventory ledger, with the feasibility limits stated and the ethical gates before any intervention.
+10. [Integration Up Levels and Martian atmospheric engineering](iul-mars/README.md): an auditable repeated-integration discipline with its constants kept, applied to a coupled Mars inventory ledger, with the feasibility limits stated and the ethical gates before any intervention; its [oxygen reactor proposal](iul-mars/OXYGEN_REACTOR.md) works the first enclosed-habitat case from MOXIE's demonstrated chemistry.
+11. [Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md): universal language-evolution research, preservation and anti-authoritarian safeguards.
+12. [Civilisational capability distribution without eugenics](civilisational-resilience/README.md): a rights-based research adjunct on resilient access to expertise without reproductive control.
+13. [Governance integrity, courage to care and living well](governance-integrity/README.md): accountable power, caring intervention, fallibility and plural definitions of a good life.
 14. [Plural rooting, routing and shared works](plural-rooting/README.md): how a community establishes independent authority while keeping its historical roots, rebuilding voluntary relationships and making shared works; illustrated from American independence and the Entente Cordiale to the Statue of Liberty and the Eiffel Tower, with cautious implications for Earth and Mars.
 
 Items 10 to 14 are provisional research extensions with an entry point of their own at [START_HERE.md](START_HERE.md); the nine documents above remain the framework.

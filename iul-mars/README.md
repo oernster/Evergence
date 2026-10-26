@@ -298,6 +298,8 @@ Every durable scientific result should additionally include: model version/commi
 
 Deliver: executable solver, conservation-test suite, stored TrellisDB scenario, simple time-series plots and a published table of assumptions and failure conditions. This produces a usable engineering artefact while leaving open the broader Mars ambition.
 
+The reactor that experiment would model is set out in [Producing breathing oxygen with an electrochemical reactor](OXYGEN_REACTOR.md): the demonstrated MOXIE chemistry, its mass balance as the first IUL inventory, a worked four-person habitat, the energy and breathable-air limits, the Olympus Mons site hypothesis against lower sites and why none of it is global terraforming.
+
 ## References
 
 1. [Evergence repository and core documents](https://github.com/oernster/Evergence).
