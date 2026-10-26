@@ -19,6 +19,10 @@ Future architects should represent the needs and understandings of the civilisat
 
 No single person can embody every discipline or every community. These are qualities to cultivate across a **plural, accountable institution**, not grounds for concentrating authority in an allegedly ideal individual.
 
+## Choosing an architect
+
+- **It should be made clear that this document is not a guide to choosing an architect; these decisions are outside the scope of this document.**
+
 ## Representation and legitimacy
 
 Architects must be answerable to affected populations. Governance should incorporate diverse human perspectives and (as understanding permits) meaningful representation for other conscious entities. Expertise informs decisions; it does not replace consent, scrutiny or public reasoning.
