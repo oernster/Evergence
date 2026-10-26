@@ -4,17 +4,19 @@
 
 ## Central ambition
 
-Seek conditions under which humanity and other life can **survive and continue evolving**, without an unavoidable terminal fate and without imposing stagnation. A recognisably human-descended entity (by which I mean for example, were we to be homo erectus, then homo sapiens might be a descendant entity etc etc) should retain controlling or at least substantial influence over its own trajectory. What constitutes continuity of identity and legitimate influence is unresolved and requires collective examination by the society is is present at the time of analysis.
+Seek conditions under which humanity and other life can **survive and continue evolving**, without an unavoidable terminal fate and without imposing stagnation. A recognisably human-descended entity should retain controlling or at least substantial influence over its own trajectory. By a human-descended entity I mean, for example: were we to be Homo erectus, then Homo sapiens might be a descendant entity. What constitutes continuity of identity and legitimate influence is unresolved and requires collective examination by the society present at the time of analysis.
 
 Whilst it would be lovely to have indefinite survival; this is simply an attempt to optimise for future scenarios and survival within that.
 
-## Means are not ends - this is a generalisation for different concepts that much like money is a means to an end not the end itself; these instruments fit that category too.
+## Means are not ends
+
+This is a generalisation across different concepts: much like money, which is a means to an end and not the end itself, these instruments fit that category too.
 
 Technological progress, economic resources, dimensional expansion, knowledge, energy acquisition and political institutions are instruments. Their value depends on what they enable for living beings.
 
 Accumulation for accumulation's sake, whether of money, territory, computational power or dimensions, is not the objective.  When it becomes the objective, large bodies of individuals in society often lose out to a small group of those in power.
 
-Economic theory enters the framework on exactly this footing, as a set of constraints on how the instruments may be used, never as a reason to accumulate ([ECONOMICS.md](ECONOMICS.md)). One of those constraints is the quietest threat to the ambition: a positive discount rate applied across civilisational stages values the stage after next at nothing. The rate is therefore a commitment to be argued, not a parameter to be assumed.
+Economic theory enters the framework on exactly this footing, as a set of constraints on how the instruments may be used, never as a reason to accumulate ([ECONOMICS.md](ECONOMICS.md)). One of those constraints is the quietest threat to the ambition: a positive constant discount rate applied across civilisational stages progressively reduces the present value assigned to each later stage. Over long enough horizons those stages can become practically negligible within the evaluation, though their moral significance is unchanged. The rate is therefore a commitment to be argued, not a parameter to be assumed.
 
 ## Evolution and direction
 
@@ -52,7 +54,7 @@ for every future time t:
 
 This is **not a theorem**. 'Physically achievable', 'human-descended', 'meaningful' and 'evolution' all require operational definitions. A stronger theory would address resilience across many disturbances, not merely one fortunate trajectory.
 
-Gödel's incompleteness theorems add a structural caution (hypothesis; the theorems themselves are stated in [MATHEMATICS.md](MATHEMATICS.md) section 9). Once the terms are defined inside a formal system rich enough to count configurations, there will be statements about the system's own trajectories it cannot settle; nor can it certify its own consistency. A viable civilisation therefore needs the capacity to extend its theory of itself, not merely to apply it. On this reading open-endedness is a requirement of the ambition rather than an ornament to it.
+Gödel's incompleteness theorems add a structural caution (the theorems themselves are stated in [MATHEMATICS.md](MATHEMATICS.md) section 9). If the terms are defined inside a formal system that is consistent, effectively axiomatised and able to interpret elementary arithmetic, the theorems apply to that system: it leaves some sentence unsettled and it cannot certify its own consistency. They do not show that any particular statement about the system's trajectories is undecidable; whether such statements exist is a question for formal investigation (hypothesis until it is settled). Should they exist, a viable civilisation needs the capacity to extend its theory of itself, not merely to apply it. On this reading open-endedness is a requirement of the ambition rather than an ornament to it.
 
 ## What is not being proposed
 
@@ -62,7 +64,7 @@ Gödel's incompleteness theorems add a structural caution (hypothesis; the theor
 - An obligation to maintain present human biology unchanged.
 - A predetermined perfect society.
 - A claim that current physics already permits escape from heat death.
-- A complete and final theory of viability, which incompleteness makes unlikely in principle.
+- A complete and final theory of viability; for any formalisation meeting the conditions of Gödel's theorems, completeness is ruled out.
 - An architect with unquestionable authority.
 
 ## Next

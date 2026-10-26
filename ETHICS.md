@@ -16,7 +16,7 @@ A civilisation pursuing indefinite survival may face difficult trade-offs. Its s
 
 Other conscious entities must have meaningful consideration and (where possible) participation in decisions affecting them.
 
-How much a present stage may spend on the next is itself a moral choice. [ECONOMICS.md](ECONOMICS.md) explains why it must not be left to a discount rate assumed by default: the arithmetic of discounting values distant generations at nothing unless the rate is chosen with them in view; the agents with the largest stake in that choice are not yet present to argue it.
+How much a present stage may spend on the next is itself a moral choice. [ECONOMICS.md](ECONOMICS.md) explains why it must not be left to a discount rate assumed by default: under a positive constant rate the present value assigned to distant generations shrinks with every stage, until over long horizons their interests can become practically negligible within the evaluation even though their moral significance is unchanged. The rate must therefore be chosen with them in view; the agents with the largest stake in that choice are not yet present to argue it.
 
 ## Reject 'perfect balance' as an overriding goal
 
@@ -25,7 +25,7 @@ Numerical symmetry is not moral justice. Equal population counts, equal resource
 The fictional elimination of half of life in *Avengers: Infinity War* illustrates the danger of treating a crude equilibrium target as a moral licence for mass killing. Historical genocides likewise demand serious study and remembrance, not numerical rationalisation.
 
 **Balance, where useful, should mean dynamic coexistence and viable relationships, not compulsory equality or elimination.**
-**Noteworthy, is that different cultures/civilisations and potentially we should also consider that alien races we may meet may also want to be part of this dynamic coexistence understanding; with full appreciation that not all alien beings may share these altruistic values.**
+**It is noteworthy that different cultures and civilisations may also want to be part of this understanding of dynamic coexistence. We should potentially consider that alien races we may meet may want the same, with full appreciation that not all alien beings may share these altruistic values.**
 
 Economics names the degenerate case: a measure that becomes a target ceases to measure (Goodhart), so any numerical balance adopted as an objective will be gamed by the structure around it ([ECONOMICS.md](ECONOMICS.md)). Keeping measures diagnostic is an ethical safeguard as well as a technical one.
 

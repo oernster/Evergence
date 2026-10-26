@@ -72,7 +72,7 @@ For illustration, assume **four people**, a nominal oxygen use of **0.84 kg per 
 | CO by-product requiring safe handling | **5.88 kg CO/day** |
 | Continuous output compared with MOXIE's best measured hourly rate | **11.7 times** |
 
-The last comparison is **not an estimate of how many flight MOXIE units would be suitable**, since MOXIE did not prove continuous service, reliability, equipment lifetime or crew safety. A real facility also needs storage reserves, duplicate critical equipment, gas purification, air scrubbing, inert buffer gases and independent power and monitoring. The calculation is in **Earth days**, rather than Martian sols.
+The last comparison is **not an estimate of how many flight MOXIE units would be suitable**, since MOXIE did not prove continuous service, reliability, equipment lifetime or crew safety. A real facility also needs storage reserves, duplicate critical equipment, planned maintenance with spares, gas purification, air scrubbing, inert buffer gases and independent power and monitoring. The calculation is in **Earth days**, rather than Martian sols.
 
 ## 4. Energy and safe breathable air
 

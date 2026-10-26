@@ -5,7 +5,8 @@
 **Status:** Proposed research extension, not an established physical theory or an approved engineering plan.  
 **Parent framework:** [Evergence](https://github.com/oernster/Evergence)  
 **Data infrastructure:** [TrellisDB](https://github.com/oernster/TrellisDB)  
-**Initial engineering case:** Martian atmospheric and enclosed-habitat systems.
+**Initial engineering case:** Martian atmospheric and enclosed-habitat systems.  
+**Engineering proposal:** [Oxygen production reactor](OXYGEN_REACTOR.md), section 10.1.
 
 ## 1. Purpose and scope
 
@@ -298,7 +299,9 @@ Every durable scientific result should additionally include: model version/commi
 
 Deliver: executable solver, conservation-test suite, stored TrellisDB scenario, simple time-series plots and a published table of assumptions and failure conditions. This produces a usable engineering artefact while leaving open the broader Mars ambition.
 
-The reactor that experiment would model is set out in [Producing breathing oxygen with an electrochemical reactor](OXYGEN_REACTOR.md): the demonstrated MOXIE chemistry, its mass balance as the first IUL inventory, a worked four-person habitat, the energy and breathable-air limits, the Olympus Mons site hypothesis against lower sites and why none of it is global terraforming.
+### 10.1 Oxygen production reactor
+
+The reactor that experiment would model is set out in [Producing breathing oxygen with an electrochemical reactor](OXYGEN_REACTOR.md): the demonstrated MOXIE chemistry, its governing mass-balance and inventory equations as the first IUL inventory, the engineering constraints, a worked four-person habitat, the energy and breathable-air limits, the Olympus Mons site hypothesis against lower sites and why none of it is global terraforming.
 
 ## References
 

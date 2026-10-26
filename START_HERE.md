@@ -1,15 +1,15 @@
 # START HERE: Evergence research extensions
 
-> **New entry point.** This file is explicitly supplied; it is not a replacement for Evergence's existing root [`README.md`](README.md) or the `## Start here` heading already inside that document. This file can be added to the repository root without overwriting an existing named file in the public repository as inspected on 23 October 2026.
+This page is the entry point for Evergence's research extensions. Each extension specialises the commitments of the [framework](README.md) and does not amend them; the nine framework documents remain authoritative.
 
-## What is in this extension package?
+## What the extensions cover
 
-1. **[Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md)**: the proposed general mechanism for all human languages, a falsifiable research programme, preservation without erasure and anti-authoritarian safeguards.
-2. **[Civilisational capability distribution and non-eugenic resilience](civilisational-resilience/README.md)**: a separate adjunct asking how communities can avoid dangerous shortages or concentration of protective capabilities *without reproductive control or predetermined individual worth*.
-3. **[Governance integrity, courage to care and living well](governance-integrity/README.md)**: accountable power, caring intervention, fallibility and plural definitions of a good life.
-4. **[Integration Up Levels and Martian atmospheric engineering](iul-mars/README.md)**: a repeated-integration discipline that keeps every constant, applied to a Mars inventory ledger with its feasibility limits and ethical gates stated.
+1. **[Integration Up Levels and Martian atmospheric engineering](iul-mars/README.md)**: a repeated-integration discipline that keeps every constant, applied to a Mars inventory ledger with its feasibility limits and ethical gates stated; its [oxygen production reactor](iul-mars/OXYGEN_REACTOR.md) works the first enclosed-habitat case.
+2. **[Linguistic evolution and archival stewardship](linguistic-evolution/START_HERE.md)**: the proposed general mechanism for all human languages, a falsifiable research programme, preservation without erasure and anti-authoritarian safeguards.
+3. **[Civilisational capability distribution and non-eugenic resilience](civilisational-resilience/README.md)**: a separate adjunct asking how communities can avoid dangerous shortages or concentration of protective capabilities *without reproductive control or predetermined individual worth*.
+4. **[Governance integrity, courage to care and living well](governance-integrity/README.md)**: accountable power, caring intervention, fallibility and plural definitions of a good life; its companion [Care beyond reciprocity](care-and-influence/README.md) covers benevolence that is never seen, influence without acquaintance and gratitude that creates no debt.
 5. **[Plural rooting, routing and shared works](plural-rooting/README.md)**: independent authority without forgetting; ancestry, authority, routes and shared works kept as separate relations, with historical illustrations and an Earth-and-Mars case.
-6. **[Original Evergence framework](README.md)**: the existing project's primary starting point and authoritative commitments, including [`ETHICS.md`](ETHICS.md), [`MEMORY.md`](MEMORY.md), [`ARCHITECTS.md`](ARCHITECTS.md) and [`RESEARCH.md`](RESEARCH.md).
+6. **[Original Evergence framework](README.md)**: the project's primary starting point and authoritative commitments, including [`ETHICS.md`](ETHICS.md), [`MEMORY.md`](MEMORY.md), [`ARCHITECTS.md`](ARCHITECTS.md) and [`RESEARCH.md`](RESEARCH.md).
 
 ## Common commitments
 
@@ -22,6 +22,4 @@
 
 ## Suggested reading path
 
-Read the [original ethics framework](ETHICS.md), then the [linguistic extension's start page](linguistic-evolution/START_HERE.md), followed by the [resilience adjunct](civilisational-resilience/README.md). Each track has its own source index and research tests.
-
-**Maintainer note:** This extension is additive. The existing root `README.md` should link to both research tracks under its `## Start here` section; no core document needs replacing.
+Read the [original ethics framework](ETHICS.md) first, then the extension closest to your interest. Each track has its own source index and research tests.

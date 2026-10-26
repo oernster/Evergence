@@ -44,7 +44,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 - Decide whether ternary states encode decisions, physical states or abstract degrees of freedom.
 - Compare balanced ternary with binary, continuous and other representations.
 - Explore coupled phase models, information preservation and path dependence.
-- State the model's axioms explicitly; catalogue which questions about trajectories are undecidable within them (Gödel, [MATHEMATICS.md](MATHEMATICS.md) section 9).
+- State the model's axioms explicitly; investigate whether any questions about trajectories are undecidable within them and catalogue those found (Gödel, [MATHEMATICS.md](MATHEMATICS.md) section 9).
 - Define the extension step: whether $\Delta D_n$ corresponds to added axioms and whether bounded-horizon viability can be proved stage by stage.
 - Identify observable consequences; abandon formalisms that add no explanatory power.
 
@@ -77,7 +77,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 |---|---|
 | M1: Shared vocabulary | Terms defined; major disagreements recorded |
 | M2: Ethical stress tests | Adversarial scenarios and objections published |
-| M3: Formal model v0 | Assumptions, equations, examples and failure cases; axioms stated and undecidable questions catalogued |
+| M3: Formal model v0 | Assumptions, equations, examples and failure cases; axioms stated; any undecidable questions found are catalogued |
 | M4: Historical archive prototype | Integrity, retrieval and review demonstrated |
 | M5: Cosmological review | Competing models, evidence and uncertainties documented |
 | M6: Public revision | Critiques incorporated with versioned rationale |
