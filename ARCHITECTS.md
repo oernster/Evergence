@@ -21,7 +21,7 @@ No single person can embody every discipline or every community. These are quali
 
 ## Choosing an architect
 
-- **It should be made clear that this document is not a guide to choosing an architect; these decisions are outside the scope of this document.**
+- **It should be made clear that this document is not a guide to choosing an architect; that kind of decision is not within scope.**
 
 ## Representation and legitimacy
 
