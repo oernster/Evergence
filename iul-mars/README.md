@@ -59,38 +59,38 @@ An increase in any of these quantities is not by itself evidence of an extra phy
 
 Evergence proposes a schematic transition:
 
-\[
+$$
 C_{n+1}=F(C_n,H_n,\Delta D_n).
-\]
+$$
 
 For this application:
-- \(C_n\) is the modelled inhabited environment and the institutions responsible for it at stage n.
-- \(H_n\) is the accessible evidence and decision history, including rejected proposals.
-- \(\Delta D_n\) records additional modelled capabilities or degrees of freedom, not presumed extra spacetime dimensions.
-- \(F\) is initially a *research object*, not a known law of nature.
+- $C_n$ is the modelled inhabited environment and the institutions responsible for it at stage n.
+- $H_n$ is the accessible evidence and decision history, including rejected proposals.
+- $\Delta D_n$ records additional modelled capabilities or degrees of freedom, not presumed extra spacetime dimensions.
+- $F$ is initially a *research object*, not a known law of nature.
 
 The physical component will instead use independently validated differential equations. The societal component requires transparent, participatory deliberation beyond the scope of a physical solver.
 
 ### 3.3 Balanced ternary as a possible representation
 
-An experimental policy state might be encoded as \(-1,0,+1\) for rejected, under review and provisionally supported. Such labels are administrative semantics, not intrinsic properties of matter or proofs of scientific validity. Competing binary and continuous representations should be benchmarked; no requirement to preserve ternary encoding if it performs worse.
+An experimental policy state might be encoded as $-1,0,+1$ for rejected, under review and provisionally supported. Such labels are administrative semantics, not intrinsic properties of matter or proofs of scientific validity. Competing binary and continuous representations should be benchmarked; no requirement to preserve ternary encoding if it performs worse.
 
 ## 4. IUL: rigorous definition and non-negotiable constant rule
 
-Let \(f(t)\) be any sufficiently integrable scalar or vector-valued rate, with reference time \(t_0\). Define the sequence \(I_n\) by
+Let $f(t)$ be any sufficiently integrable scalar or vector-valued rate, with reference time $t_0$. Define the sequence $I_n$ by
 
-\[
+$$
 I_0(t)=f(t), \qquad \frac{d I_n}{dt}=I_{n-1}(t)\quad(n\geq1).
-\]
+$$
 
 The general family of repeated antiderivatives is
 
-\[
+$$
 \boxed{I_n(t)=\frac{1}{(n-1)!}\int_{t_0}^{t}(t-s)^{n-1}f(s)\,ds
 +\sum_{j=1}^{n} C_j\frac{(t-t_0)^{n-j}}{(n-j)!}.}
-\]
+$$
 
-Every integration creates a new independent constant \(C_j\) (or vector for vector-valued rates). Earlier constants accumulate as polynomials. For partial integration, a 'constant' may be an arbitrary function of all variables not integrated over.
+Every integration creates a new independent constant $C_j$ (or vector for vector-valued rates). Earlier constants accumulate as polynomials. For partial integration, a 'constant' may be an arbitrary function of all variables not integrated over.
 
 **Mandatory calculation protocol:**
 
@@ -103,85 +103,85 @@ Every integration creates a new independent constant \(C_j\) (or vector for vect
 7. Test dimensional consistency and applicable conservation laws.
 8. Distinguish the mathematical antiderivative from any asserted physical interpretation.
 
-An example: if \(f(t)=\dot M_{O_2}(t)\) has units kg/s, then \(I_1=M_{O_2}\) has units kg and its independent constant is the initial oxygen mass. \(I_2\) has units kg·s and is **not** another source of oxygen.
+An example: if $f(t)=\dot M_{O_2}(t)$ has units kg/s, then $I_1=M_{O_2}$ has units kg and its independent constant is the initial oxygen mass. $I_2$ has units kg·s and is **not** another source of oxygen.
 
-The earlier relativistic test case \(E=\gamma mc^2\) can remain a mathematical verification fixture, with integration over \(\beta=v/c\); it does not replace electrochemical thermodynamics or atmospheric mass conservation.
+The earlier relativistic test case $E=\gamma mc^2$ can remain a mathematical verification fixture, with integration over $\beta=v/c$; it does not replace electrochemical thermodynamics or atmospheric mass conservation.
 
 ## 5. First physical Mars model: a coupled inventory ledger
 
 Define a provisional planetary or regional state vector:
 
-\[
+$$
 \mathbf{x}(t)=
 \begin{bmatrix}
 M_{CO_2}&M_{CO}&M_{O_2}&M_{N_2}&M_{H_2O}&U&T
 \end{bmatrix}^{T}.
-\]
+$$
 
 The quantities comprise species inventories (kg), stored/internal energy (J) and representative temperature (K). Additional models may require altitude-dependent composition, soil/ice reservoirs, radiative transfer, power infrastructure and local pressure.
 
 Represent atmospheric and industrial transformations as
 
-\[
+$$
 \boxed{\dot{\mathbf{x}}=S\,\mathbf{r}(\mathbf{x},\mathbf{u},t)
 +\mathbf{b}_{\rm import}-\mathbf{b}_{\rm escape}-\mathbf{b}_{\rm sink}}
-\]
+$$
 
-for appropriately selected mass states, with a **separate, dimensionally appropriate energy equation** for the energy and thermal states. \(S\) is a reaction stoichiometry or conversion matrix, \(\mathbf r\) contains rates and \(\mathbf u\) contains controlled inputs such as electricity, heaters and industrial duty cycles. Not every component shares the same physical units, so implementations must keep explicit units by variable and operator.
+for appropriately selected mass states, with a **separate, dimensionally appropriate energy equation** for the energy and thermal states. $S$ is a reaction stoichiometry or conversion matrix, $\mathbf r$ contains rates and $\mathbf u$ contains controlled inputs such as electricity, heaters and industrial duty cycles. Not every component shares the same physical units, so implementations must keep explicit units by variable and operator.
 
 ### 5.1 The minimum demonstrator: carbon dioxide electrolysis
 
 MOXIE demonstrated:
 
-\[
+$$
 2CO_2\rightarrow2CO+O_2.
-\]
+$$
 
-With oxygen output rate \(R_{O_2}\) in kg/s, ideal stoichiometry implies:
+With oxygen output rate $R_{O_2}$ in kg/s, ideal stoichiometry implies:
 
-\[
+$$
 \dot M_{CO_2}=-\frac{44}{16}R_{O_2},\quad
 \dot M_{CO}=\frac{28}{16}R_{O_2},\quad
 \dot M_{O_2}=R_{O_2}.
-\]
+$$
 
-**Mass closure test:** \(-44/16+28/16+1=0\). The reaction does not create additional total mass. To accumulate useful oxygen, the coproduct CO, possible re-oxidation, atmospheric losses and energy inputs must be included.
+**Mass closure test:** $-44/16+28/16+1=0$. The reaction does not create additional total mass. To accumulate useful oxygen, the coproduct CO, possible re-oxidation, atmospheric losses and energy inputs must be included.
 
 For oxygen:
 
-\[
+$$
 \dot M_{O_2}=R_{O_2}-L_{O_2}-Q_{O_2}.
-\]
+$$
 
 **IUL level 1** integrates this net rate:
 
-\[
+$$
 M_{O_2}(t)=\int (R_{O_2}-L_{O_2}-Q_{O_2})\,dt+C_1.
-\]
+$$
 
-With specified initial state \(M_{O_2}(t_0)=M_{O_2,0}\), the value of \(C_1\) is fixed, equivalently:
+With specified initial state $M_{O_2}(t_0)=M_{O_2,0}$, the value of $C_1$ is fixed, equivalently:
 
-\[
+$$
 M_{O_2}(t)=M_{O_2,0}+\int_{t_0}^{t}(R_{O_2}-L_{O_2}-Q_{O_2})(s)\,ds.
-\]
+$$
 
 **IUL level 2** integrates the full level 1 expression:
 
-\[
+$$
 A_{O_2}(t)=\int M_{O_2}(t)\,dt+C_2.
-\]
+$$
 
-\(A_{O_2}\) has units kg·s, an inventory-time exposure measure; \(C_2\) is independent and is fixed only by a stated condition for \(A_{O_2}\). No new mass is implied.
+$A_{O_2}$ has units kg·s, an inventory-time exposure measure; $C_2$ is independent and is fixed only by a stated condition for $A_{O_2}$. No new mass is implied.
 
 ### 5.2 Partial derivatives and eigenanalysis
 
 For a selected equilibrium or reference trajectory, linearise the physical dynamics with
 
-\[
+$$
 J_{ij}=\frac{\partial f_i}{\partial x_j}.
-\]
+$$
 
-Evaluate eigenpairs \(J\mathbf q_i=\lambda_i\mathbf q_i\) to identify locally growing, decaying and oscillatory modes. Eigenvectors provide local relationships between perturbations; they are not substitutes for nonlinear simulations or evidence of a new physical interaction.
+Evaluate eigenpairs $J\mathbf q_i=\lambda_i\mathbf q_i$ to identify locally growing, decaying and oscillatory modes. Eigenvectors provide local relationships between perturbations; they are not substitutes for nonlinear simulations or evidence of a new physical interaction.
 
 ### 5.3 Validation gates
 
@@ -198,7 +198,7 @@ At each time step and each integrated level, verify:
 
 ## 6. Feasibility: global Mars and regional engineering are different targets
 
-As of May 2026, an open-access analysis in *APS Open Science* reports that Mars requires roughly \(3.89\times10^{15}\) kg of atmosphere per millibar of global mean surface pressure. A representative human-breathable open atmosphere with oxygen partial pressure of 21 kPa and nitrogen partial pressure of 50 kPa implies roughly \(9.0\times10^{17}\) kg of oxygen and \(1.9\times10^{18}\) kg of nitrogen, respectively. Its benchmark reversible work for oxygenation by water electrolysis is on the order of \(1.3\times10^{25}\) J before real losses. It concludes that no surveyed abiotic global pathway closes *all* inventory, heating, production, power, retention and operations constraints. [Turyshev, 2026](https://doi.org/10.1103/krb8-h3v3).
+As of May 2026, an open-access analysis in *APS Open Science* reports that Mars requires roughly $3.89\times10^{15}$ kg of atmosphere per millibar of global mean surface pressure. A representative human-breathable open atmosphere with oxygen partial pressure of 21 kPa and nitrogen partial pressure of 50 kPa implies roughly $9.0\times10^{17}$ kg of oxygen and $1.9\times10^{18}$ kg of nitrogen, respectively. Its benchmark reversible work for oxygenation by water electrolysis is on the order of $1.3\times10^{25}$ J before real losses. It concludes that no surveyed abiotic global pathway closes *all* inventory, heating, production, power, retention and operations constraints. [Turyshev, 2026](https://doi.org/10.1103/krb8-h3v3).
 
 These are order-of-magnitude feasibility limits, not the output of the proposed IUL implementation. Warming mechanisms, including [engineered aerosols modelled in 2024](https://doi.org/10.1126/sciadv.adn4650), do not themselves supply the needed bulk atmospheric gas.
 

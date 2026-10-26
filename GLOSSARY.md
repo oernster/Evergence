@@ -28,7 +28,7 @@
 
 **Entropy:** A thermodynamic quantity associated with the multiplicity of microscopic configurations and constraints on available work.
 
-**Euler's identity:** The mathematical equality \(e^{i\pi}+1=0\).
+**Euler's identity:** The mathematical equality $e^{i\pi}+1=0$.
 
 **Evolution:** Change and development over time; in this project, also the possibility of new capacities. No universal direction or purpose is assumed.
 

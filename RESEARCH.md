@@ -45,7 +45,7 @@ Treat the survival ambition seriously while maintaining strict distinctions amon
 - Compare balanced ternary with binary, continuous and other representations.
 - Explore coupled phase models, information preservation and path dependence.
 - State the model's axioms explicitly; catalogue which questions about trajectories are undecidable within them (Gödel, [MATHEMATICS.md](MATHEMATICS.md) section 9).
-- Define the extension step: whether \(\Delta D_n\) corresponds to added axioms and whether bounded-horizon viability can be proved stage by stage.
+- Define the extension step: whether $\Delta D_n$ corresponds to added axioms and whether bounded-horizon viability can be proved stage by stage.
 - Identify observable consequences; abandon formalisms that add no explanatory power.
 
 **Output:** explicit definitions, proofs where possible, simulations and counterexamples.

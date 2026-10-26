@@ -16,16 +16,16 @@ Heat death is not simply 'all energy disappears'. The issue is the availability 
 
 For an isolated system, the second law is conventionally expressed as:
 
-\[
+$$
 \Delta S\geq 0.
-\]
+$$
 
 Applying thermodynamics to the entire expanding universe involves subtleties: gravitational entropy, horizons, cosmological boundary conditions and the scope of the system must be handled carefully.
 
 ## What is established and what is uncertain
 
 - The universe is expanding; accelerated expansion is supported by observations.
-- The standard \(\Lambda\)CDM model describes much observed cosmological behaviour.
+- The standard $\Lambda\mathrm{CDM}$ model describes much observed cosmological behaviour.
 - The physical nature and long-term behaviour of dark energy remain open to investigation.
 - String-theoretic and M-theoretic extra dimensions are theoretical, not confirmed features of spacetime.
 - The existence of a traversable multiverse or a civilisation-preserving universe transition is unestablished.
@@ -57,11 +57,11 @@ No established mechanism currently satisfies all three.
 
 One may hypothesise:
 
-\[
+$$
 U_0\rightarrow U_1\rightarrow U_2\rightarrow\cdots
-\]
+$$
 
-where \(U_n\) represents an environment in which continued life is possible. This is a conceptual sequence, **not evidence that a multiverse exists or is accessible**.
+where $U_n$ represents an environment in which continued life is possible. This is a conceptual sequence, **not evidence that a multiverse exists or is accessible**.
 
 Even an infinite collection of domains would not guarantee traversability, adequate resources or identity preservation.
 
@@ -69,17 +69,17 @@ Even an infinite collection of domains would not guarantee traversability, adequ
 
 Any physical survival strategy must address available work, matter, stable organisation, information fidelity and waste heat. A toy energy balance is:
 
-\[
+$$
 P_{\mathrm{available}}(t)\ge P_{\mathrm{required}}(t),
-\]
+$$
 
 but a complete model needs more than a single power inequality. The allocation side of the same constraint, a budget shared among survival, memory and evolution, is sketched in [ECONOMICS.md](ECONOMICS.md).
 
 An infinite sum of possible resources may be finite; for example:
 
-\[
+$$
 \sum_{n=1}^{\infty}E_0 2^{-n}=E_0.
-\]
+$$
 
 Infinite mathematical dimensions therefore do not solve thermodynamics by themselves.
 

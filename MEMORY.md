@@ -40,15 +40,15 @@ Recommended archival practices include:
 
 Let Hₙ denote the historical record available at civilisational stage n. The ideal of non-destructive preservation is:
 
-\[
+$$
 H_n \hookrightarrow H_{n+1}
-\]
+$$
 
 where the arrow denotes a faithful, retrievable embedding of prior records into the next stage's archive.
 
 This is an **ideal requirement**, not a physical guarantee. Storage media fail; information has thermodynamic costs. A real design needs explicit reliability assumptions and recovery strategies.
 
-Those costs make preservation an allocation decision. [ECONOMICS.md](ECONOMICS.md) gives memory a floor, \(M_n\ge M_n^{\min}\), in a budget it shares with survival and evolution; a complete archive kept forever is not available on a finite budget, so the three duties above are costed choices rather than free ones. The floor is a duty, not a cost to be minimised.
+Those costs make preservation an allocation decision. [ECONOMICS.md](ECONOMICS.md) gives memory a floor, $M_n\ge M_n^{\min}$, in a budget it shares with survival and evolution; a complete archive kept forever is not available on a finite budget, so the three duties above are costed choices rather than free ones. The floor is a duty, not a cost to be minimised.
 
 ## Memory should inform, not imprison
 

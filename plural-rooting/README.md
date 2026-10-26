@@ -69,55 +69,55 @@ The Eiffel Tower was built by Eiffel's company between 1887 and 1889 as the cent
 
 This is a provisional representation, offered so that the distinctions above can be argued about precisely. It is not a law of history.
 
-Let the civilisational record at time \(t\) be a typed, directed graph
+Let the civilisational record at time $t$ be a typed, directed graph
 
-\[
+$$
 G_t=(V_t,\;E_t^H,\;E_t^A,\;E_t^R,\;E_t^W,\;\mathcal T_t)
-\]
+$$
 
-with \(V_t\) the entities (communities, institutions, states, projects, populations); \(E_t^H\) ancestry, influence and provenance; \(E_t^A\) authority claims and delegations, each bounded by a stated jurisdiction and scope; \(E_t^R\) routes (diplomatic, cultural, commercial, scientific, communicative), each carrying its consent and status; \(E_t^W\) contributions to shared works, with contributors and beneficiaries named; \(\mathcal T_t\) the recorded transitions, disputes, recognitions and corrections.
+with $V_t$ the entities (communities, institutions, states, projects, populations); $E_t^H$ ancestry, influence and provenance; $E_t^A$ authority claims and delegations, each bounded by a stated jurisdiction and scope; $E_t^R$ routes (diplomatic, cultural, commercial, scientific, communicative), each carrying its consent and status; $E_t^W$ contributions to shared works, with contributors and beneficiaries named; $\mathcal T_t$ the recorded transitions, disputes, recognitions and corrections.
 
 An authority edge is not a bare arrow. At minimum it is
 
-\[
+$$
 a=(\text{issuer},\ \text{subject},\ \text{scope},\ \text{basis},\ \text{start},\ \text{end},\ \text{status}),
-\]
+$$
 
 where *status* ranges over asserted, contested, provisionally exercised, recognised, expired and revoked. **A claim's presence in the graph is never proof of its legitimacy.** A route records who proposed it, who agreed, who may revoke it, which populations it affects and whether they were represented. An ancestry edge confers no governing authority by itself:
 
-\[
+$$
 \text{ancestry}(u,v)\;\not\Rightarrow\;\text{authority}(u,v,t).
-\]
+$$
 
 ### Re-rooting as a transition
 
-Let \(A_t\) be the set of authority relationships active at \(t\). A stylised re-rooting is
+Let $A_t$ be the set of authority relationships active at $t$. A stylised re-rooting is
 
-\[
-A_{t+1}=\bigl(A_t\setminus\{a_{\text{old}}\}\bigr)\cup\{a_{\text{new}}\},
-\]
+$$
+A_{t+1}=\bigl(A_t\setminus\lbrace a_{\text{old}}\rbrace \bigr)\cup\lbrace a_{\text{new}}\rbrace ,
+$$
 
-a transition inside a chosen model of active authority, not an instant resolution of a contested sovereignty in the world; competing claims and their evidence may coexist in the record long after effective authority has changed. Alongside it the archive \(H_t\) satisfies the preservation aspiration of [MEMORY.md](../MEMORY.md):
+a transition inside a chosen model of active authority, not an instant resolution of a contested sovereignty in the world; competing claims and their evidence may coexist in the record long after effective authority has changed. Alongside it the archive $H_t$ satisfies the preservation aspiration of [MEMORY.md](../MEMORY.md):
 
-\[
+$$
 H_t\hookrightarrow H_{t+1},
-\]
+$$
 
 so that the earlier authority, the transition and the dissent remain recoverable. A legitimate re-rooting changes the first relation, possibly a great deal, while leaving the second intact. The 1773 to 1783 sequence is three such transitions, each with its own evidence.
 
 ### Shared works
 
-A shared achievement \(w\) has many contributors in distinguishable roles:
+A shared achievement $w$ has many contributors in distinguishable roles:
 
-\[
+$$
 w=F(c_1,\ldots,c_n;\ r,\ h,\ \kappa),
-\]
+$$
 
-with \(c_i\) the contributions, \(r\) the active relationships, \(h\) inherited knowledge and \(\kappa\) material and institutional constraints. \(F\) names a possible model, not a known formula for cultural achievement. The record it demands: the collaborators, the labour that was overlooked, the communities affected and the differences among ownership, stewardship and significance, with room for disputed attribution. The Statue, with its sculptor, its engineer and its pedestal architect, is the worked example.
+with $c_i$ the contributions, $r$ the active relationships, $h$ inherited knowledge and $\kappa$ material and institutional constraints. $F$ names a possible model, not a known formula for cultural achievement. The record it demands: the collaborators, the labour that was overlooked, the communities affected and the differences among ownership, stewardship and significance, with room for disputed attribution. The Statue, with its sculptor, its engineer and its pedestal architect, is the worked example.
 
 ### Relation to the IUL discipline
 
-For a quantitative state variable with a defined rate, \(x_i(t)=\int f_i(t)\,dt+C_i\); distinct branches may carry distinct constants and distinct later trajectories. That is an analogy only. An integration constant grants no sovereignty and confers no legitimacy. Where the [IUL discipline](../iul-mars/README.md) applies, its rule holds: constants are kept and fixed only by a stated condition. There is no need to manufacture an integral for every historical event.
+For a quantitative state variable with a defined rate, $x_i(t)=\int f_i(t)\,dt+C_i$; distinct branches may carry distinct constants and distinct later trajectories. That is an analogy only. An integration constant grants no sovereignty and confers no legitimacy. Where the [IUL discipline](../iul-mars/README.md) applies, its rule holds: constants are kept and fixed only by a stated condition. There is no need to manufacture an integral for every historical event.
 
 ## Properties any implementation must keep
 
@@ -136,7 +136,7 @@ For a quantitative state variable with a defined rate, \(x_i(t)=\int f_i(t)\,dt+
 
 Consider a settlement on Mars built with Earth-based scientific, financial and technical contributions, whose inhabitants later form institutions suited to their own circumstances. Earth and Mars could keep historical, familial, scientific and artistic links while negotiating how each governs itself. The model must assume neither that Earth holds perpetual sovereignty because it came first nor that Mars may ignore every prior commitment and the rights of affected parties. Legitimate governance there would turn on the applicable legal framework, standing obligations, the inhabitants' wishes, resource stewardship, safety and planetary protection.
 
-Under the architecture above: Earth-to-Mars heritage is an \(E^H\) edge; habitat, power, communications and atmospheric-engineering agreements are scoped \(E^R\) edges; political claims and legal status are kept apart from scientific data and engineering authority; collaboration and shared works remain possible across different governance arrangements; and future Martian sovereignty is an unresolved legal and ethical research question, not a statement of current law. This is a governance extension beside [iul-mars](../iul-mars/README.md); nothing here alters its mass, energy or atmospheric calculations; no physics follows from a governance analogy.
+Under the architecture above: Earth-to-Mars heritage is an $E^H$ edge; habitat, power, communications and atmospheric-engineering agreements are scoped $E^R$ edges; political claims and legal status are kept apart from scientific data and engineering authority; collaboration and shared works remain possible across different governance arrangements; and future Martian sovereignty is an unresolved legal and ethical research question, not a statement of current law. This is a governance extension beside [iul-mars](../iul-mars/README.md); nothing here alters its mass, energy or atmospheric calculations; no physics follows from a governance analogy.
 
 ## Tests the model must pass and how it fails
 
