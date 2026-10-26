@@ -25,6 +25,7 @@ Numerical symmetry is not moral justice. Equal population counts, equal resource
 The fictional elimination of half of life in *Avengers: Infinity War* illustrates the danger of treating a crude equilibrium target as a moral licence for mass killing. Historical genocides likewise demand serious study and remembrance, not numerical rationalisation.
 
 **Balance, where useful, should mean dynamic coexistence and viable relationships, not compulsory equality or elimination.**
+**Noteworthy, is that different cultures/civilisations and potentially alien races we may meet should be considered to be within this dynamic coexistence understanding.**
 
 Economics names the degenerate case: a measure that becomes a target ceases to measure (Goodhart), so any numerical balance adopted as an objective will be gamed by the structure around it ([ECONOMICS.md](ECONOMICS.md)). Keeping measures diagnostic is an ethical safeguard as well as a technical one.
 
